@@ -1,0 +1,131 @@
+question,frame,clip,video
+What color is the jacket worn by the teacher?,1,0,0
+Which logo appears on the box?,1,0,0
+What animal is visible in the background?,1,0,0
+How many people are standing near the table at this moment?,1,0,0
+What text is written on the warning sign?,1,0,0
+What object is beside the blue chair?,1,0,0
+Which hand is holding the cup?,1,0,0
+What is displayed on the computer screen?,1,0,0
+What color are the flowers?,1,0,0
+What shape is the object shown?,1,0,0
+Where is the bicycle positioned relative to the car?,1,0,0
+Which number appears on the basketball jersey?,1,0,0
+What is the facial expression of the girl?,1,0,0
+What is visible through the window?,1,0,0
+Which tool is the mechanic holding?,1,0,0
+Is the door open or closed in this image?,1,0,0
+What brand name can be seen on the bottle?,1,0,0
+What species of bird is pictured?,1,0,0
+What is the color of the traffic light?,1,0,0
+What type of building is shown?,1,0,0
+Which ingredient appears in the bowl?,1,0,0
+How many red balloons can be seen in the scene?,1,0,0
+What is written on the presentation slide?,1,0,0
+What is the man wearing on his head?,1,0,0
+What is the color of the vehicle shown at 00:25?,1,0,0
+Which instrument is visible behind the singer?,1,0,0
+What are the shapes displayed on the board?,1,0,0
+Which object is to the left of the microphone?,1,0,0
+What can be seen on the wall behind the speaker?,1,0,0
+Which country flag is hanging in the room?,1,0,0
+What does the man do after opening the door?,0,1,0
+What happens when the ball hits the window?,0,1,0
+How does the cook chop the vegetables?,0,1,0
+What does the runner do before crossing the line?,0,1,0
+Which action does the child perform next?,0,1,0
+At what moment does the cyclist fall?,0,1,0
+What takes place as the train arrives at the station?,0,1,0
+What does the speaker say about the result?,0,1,0
+What happens just after the lights go out?,0,1,0
+How does the bird take off from the tree?,0,1,0
+What is happening between 1:30 and 1:45?,0,1,0
+How does the dog react when the owner arrives?,0,1,0
+What is the next step demonstrated in the recipe?,0,1,0
+What does the presenter mention before the experiment?,0,1,0
+When does the presenter start the second demonstration?,0,1,0
+What does the player do after receiving the pass?,0,1,0
+How does the car turn at the intersection?,0,1,0
+What did the interviewer ask the guest?,0,1,0
+What sound plays when the alarm triggers?,0,1,0
+What occurs during the first attempt?,0,1,0
+Why does the machine stop during the demonstration?,0,1,0
+What move does the dancer perform next?,0,1,0
+What is the sequence of steps for starting the engine?,0,1,0
+What happens immediately before the balloon bursts?,0,1,0
+At what time does the character leave the house?,0,1,0
+How does the scientist mix the chemicals?,0,1,0
+What does the boy do as the bus pulls away?,0,1,0
+Which object does the person pick up next?,0,1,0
+What is the response after the first question is asked?,0,1,0
+What does the camera capture when the deer runs across the road?,0,1,0
+What is the overall theme of the video?,0,0,1
+What is the main message of this documentary?,0,0,1
+How does the story evolve from beginning to end?,0,0,1
+What topic does the entire lecture focus on?,0,0,1
+What is the central argument of the presentation?,0,0,1
+How many different experiments are conducted throughout the video?,0,0,1
+How does the atmosphere change across the video?,0,0,1
+What is the overall purpose of the tutorial?,0,0,1
+What is the video primarily about?,0,0,1
+What conclusion does the speaker reach at the end of the talk?,0,0,1
+What is the overarching narrative of the film?,0,0,1
+How do the two viewpoints compare across the discussion?,0,0,1
+What are the main stages of the full process?,0,0,1
+How does the protagonist develop throughout the movie?,0,0,1
+What is the total number of locations visited throughout the video?,0,0,1
+What are the main topics covered across the complete lesson?,0,0,1
+What overall pattern emerges throughout the experiment?,0,0,1
+How does the team strategy change from start to finish?,0,0,1
+What recurring theme connects the scenes?,0,0,1
+What is the main takeaway from the full presentation?,0,0,1
+How does the documentary connect its different examples?,0,0,1
+What is the complete sequence of events in the story?,0,0,1
+What changes throughout the entire training session?,0,0,1
+Which major points are discussed throughout the conference?,0,0,1
+How does the video contrast the opening and closing scenes?,0,0,1
+What color is the car when it crashes into the barrier?,1,1,0
+Which person in a blue jacket opens the gate?,1,1,0
+What logo is on the box the child picks up?,1,1,0
+What is the appearance of the animal that jumps over the fence?,1,1,0
+Which red object is moved after the sound?,1,1,0
+What is written on the sign the runner passes?,1,1,0
+What is the color of the ball that goes into the goal?,1,1,0
+What does the man wearing a cap do before sitting down?,1,1,0
+Which numbered jersey does the player wear when scoring?,1,1,0
+What item is held by the woman as she leaves?,1,1,0
+What is the text on the paper the teacher points to?,1,1,0
+Where is the green bag placed after it is carried inside?,1,1,0
+What is the color of the cup when the person drops it?,1,1,0
+Which visible button does the operator press?,1,1,0
+What expression does the child make immediately after the surprise?,1,1,0
+How many times does the man jump throughout the video?,0,1,1
+What sequence of actions is repeated during the entire workout?,0,1,1
+How does the cooking process progress from start to finish?,0,1,1
+How many goals are scored over the whole game?,0,1,1
+What happens in the first and final segments of the video?,0,1,1
+How do the dance steps develop across the performance?,0,1,1
+What events lead up to the final outcome?,0,1,1
+How do the demonstrations compare over the full lecture?,0,1,1
+When do the two characters meet again later in the movie?,0,1,1
+How many times is the alarm heard throughout the recording?,0,1,1
+Which actions occur repeatedly in the training session?,0,1,1
+How does the speaker change their explanation as the talk progresses?,0,1,1
+What events take place before the final experiment?,0,1,1
+What chain of events causes the ending?,0,1,1
+How does the cyclist behavior vary over the entire race?,0,1,1
+Which color appears most frequently in the whole video?,1,0,1
+What objects are visible at both the beginning and end?,1,0,1
+Which logos recur throughout the presentation?,1,0,1
+How does the setting change visually across the whole documentary?,1,0,1
+Which characters appear in every scene?,1,0,1
+What is the dominant background color throughout the video?,1,0,1
+Which title cards are shown over the entire episode?,1,0,1
+How do the costumes differ from the first scene to the last?,1,0,1
+What is the total number of distinct signs shown throughout?,1,0,1
+What visual motif is present across all the scenes?,1,0,1
+What color is the car that is involved in each of the collisions throughout the video?,1,1,1
+Which person wearing a yellow shirt speaks most often across the debate?,1,1,1
+How does the appearance of the actor change through the series of stunts?,1,1,1
+Which visible sign appears before every repeated demonstration?,1,1,1
+How many times is the blue ball passed to the referee in the game?,1,1,1

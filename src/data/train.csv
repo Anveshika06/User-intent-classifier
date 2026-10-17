@@ -1,0 +1,1709 @@
+question,frame,clip,video,template_id
+"From the video, what color is the bag?",1,0,0,g0t0
+"In the video, what color is the backpack?",1,0,0,g0t0
+What color is the book?,1,0,0,g0t0
+What color is the clock?,1,0,0,g0t0
+What color is the drone?,1,0,0,g0t0
+What color is the laptop in the video?,1,0,0,g0t0
+What color is the mug in the video?,1,0,0,g0t0
+What color is the sofa?,1,0,0,g0t0
+What color is the interviewer's tie?,1,0,0,g0t1
+What color is the main character's dress?,1,0,0,g0t1
+What color is the player's shoes?,1,0,0,g0t1
+What color is the soldier's dress?,1,0,0,g0t1
+What color is the speaker's gloves?,1,0,0,g0t1
+What color is the speaker's uniform?,1,0,0,g0t1
+What color is the vlogger's shirt in the video?,1,0,0,g0t1
+What color is the waiter's shoes?,1,0,0,g0t1
+"According to the video, what brand is the camera?",1,0,0,g0t10
+"According to the video, what brand is the mug?",1,0,0,g0t10
+"Based on the video, what brand is the ball?",1,0,0,g0t10
+What brand is the cake?,1,0,0,g0t10
+What brand is the clock?,1,0,0,g0t10
+What brand is the painting?,1,0,0,g0t10
+What brand is the poster?,1,0,0,g0t10
+What brand is the trophy?,1,0,0,g0t10
+"According to the video, which logo is printed on the drone?",1,0,0,g0t11
+"In the video, which logo is printed on the flag?",1,0,0,g0t11
+"In this video, which logo is printed on the chair?",1,0,0,g0t11
+Which logo is printed on the bottle?,1,0,0,g0t11
+Which logo is printed on the bus?,1,0,0,g0t11
+Which logo is printed on the clock?,1,0,0,g0t11
+Which logo is printed on the map in the video?,1,0,0,g0t11
+Which logo is printed on the mug in the video?,1,0,0,g0t11
+What is the name shown on the T-shirt?,1,0,0,g0t12
+What is the name shown on the banner?,1,0,0,g0t12
+What is the name shown on the label?,1,0,0,g0t12
+What is the name shown on the menu?,1,0,0,g0t12
+What is the name shown on the newspaper?,1,0,0,g0t12
+What is the name shown on the scoreboard?,1,0,0,g0t12
+What is the name shown on the title card?,1,0,0,g0t12
+What is the name shown on the whiteboard?,1,0,0,g0t12
+"According to the video, what is placed on top of the plate?",1,0,0,g0t13
+"In this video, what is placed on top of the guitar?",1,0,0,g0t13
+What is placed on top of the bowl?,1,0,0,g0t13
+What is placed on top of the box?,1,0,0,g0t13
+What is placed on top of the cake?,1,0,0,g0t13
+What is placed on top of the helmet?,1,0,0,g0t13
+What is placed on top of the mug?,1,0,0,g0t13
+What is placed on top of the trophy in the video?,1,0,0,g0t13
+What object is next to the box?,1,0,0,g0t14
+What object is next to the guitar in the video?,1,0,0,g0t14
+What object is next to the knife?,1,0,0,g0t14
+What object is next to the mug?,1,0,0,g0t14
+What object is next to the phone?,1,0,0,g0t14
+What object is next to the poster in the video?,1,0,0,g0t14
+What object is next to the poster?,1,0,0,g0t14
+What object is next to the truck?,1,0,0,g0t14
+"According to the video, what is to the left of the knife?",1,0,0,g0t15
+What is to the left of the camera?,1,0,0,g0t15
+What is to the left of the door?,1,0,0,g0t15
+What is to the left of the flag in the video?,1,0,0,g0t15
+What is to the left of the knife?,1,0,0,g0t15
+What is to the left of the lamp?,1,0,0,g0t15
+What is to the left of the phone?,1,0,0,g0t15
+What is to the left of the umbrella?,1,0,0,g0t15
+"In the video, what is on the right side of the athlete?",1,0,0,g0t16
+What is on the right side of the child?,1,0,0,g0t16
+What is on the right side of the dancer?,1,0,0,g0t16
+What is on the right side of the magician?,1,0,0,g0t16
+What is on the right side of the player?,1,0,0,g0t16
+What is on the right side of the shopkeeper?,1,0,0,g0t16
+What is on the right side of the teacher?,1,0,0,g0t16
+What is on the right side of the vlogger?,1,0,0,g0t16
+"In this video, where is the poster located in the room?",1,0,0,g0t17
+"In this video, where is the table located in the room?",1,0,0,g0t17
+Where is the bag located in the room in the video?,1,0,0,g0t17
+Where is the car located in the room?,1,0,0,g0t17
+Where is the drone located in the room in the video?,1,0,0,g0t17
+Where is the kite located in the room?,1,0,0,g0t17
+Where is the mug located in the room?,1,0,0,g0t17
+Where is the umbrella located in the room in the video?,1,0,0,g0t17
+"In the video, what is behind the man?",1,0,0,g0t18
+What is behind the child?,1,0,0,g0t18
+What is behind the guest?,1,0,0,g0t18
+What is behind the main character?,1,0,0,g0t18
+What is behind the presenter?,1,0,0,g0t18
+What is behind the referee in the video?,1,0,0,g0t18
+What is behind the referee?,1,0,0,g0t18
+What is behind the woman?,1,0,0,g0t18
+"From the video, what can be seen in the background behind the mechanic?",1,0,0,g0t19
+"From the video, what can be seen in the background behind the referee?",1,0,0,g0t19
+"In the video, what can be seen in the background behind the student?",1,0,0,g0t19
+What can be seen in the background behind the artist?,1,0,0,g0t19
+What can be seen in the background behind the climber?,1,0,0,g0t19
+What can be seen in the background behind the player?,1,0,0,g0t19
+What can be seen in the background behind the shopkeeper?,1,0,0,g0t19
+What can be seen in the background behind the waiter?,1,0,0,g0t19
+What color dress is the presenter wearing?,1,0,0,g0t2
+What color hoodie is the guest wearing?,1,0,0,g0t2
+What color hoodie is the interviewer wearing?,1,0,0,g0t2
+What color jacket is the chef wearing?,1,0,0,g0t2
+What color jacket is the doctor wearing?,1,0,0,g0t2
+What color scarf is the referee wearing?,1,0,0,g0t2
+What color sweater is the host wearing?,1,0,0,g0t2
+What color tie is the climber wearing in the video?,1,0,0,g0t2
+"From the video, which animal can be seen in the gym?",1,0,0,g0t20
+"In this video, which animal can be seen in the hospital?",1,0,0,g0t20
+Which animal can be seen in the arena?,1,0,0,g0t20
+Which animal can be seen in the classroom?,1,0,0,g0t20
+Which animal can be seen in the hospital in the video?,1,0,0,g0t20
+Which animal can be seen in the lab?,1,0,0,g0t20
+Which animal can be seen in the library?,1,0,0,g0t20
+Which animal can be seen in the studio?,1,0,0,g0t20
+"Based on the video, what kind of vase is shown?",1,0,0,g0t21
+"In this video, what kind of microphone is shown?",1,0,0,g0t21
+What kind of bag is shown?,1,0,0,g0t21
+What kind of bottle is shown?,1,0,0,g0t21
+What kind of cup is shown?,1,0,0,g0t21
+What kind of laptop is shown?,1,0,0,g0t21
+What kind of suitcase is shown?,1,0,0,g0t21
+What kind of umbrella is shown?,1,0,0,g0t21
+"In the video, what type of book is the pilot holding?",1,0,0,g0t22
+What type of camera is the host holding?,1,0,0,g0t22
+What type of kite is the child holding in the video?,1,0,0,g0t22
+What type of map is the woman holding in the video?,1,0,0,g0t22
+What type of mug is the goalkeeper holding?,1,0,0,g0t22
+What type of painting is the athlete holding?,1,0,0,g0t22
+What type of plate is the student holding?,1,0,0,g0t22
+What type of trophy is the farmer holding?,1,0,0,g0t22
+"In the video, what is the vlogger holding?",1,0,0,g0t23
+What is the chef holding in the video?,1,0,0,g0t23
+What is the guest holding?,1,0,0,g0t23
+What is the mechanic holding?,1,0,0,g0t23
+What is the referee holding?,1,0,0,g0t23
+What is the scientist holding in the video?,1,0,0,g0t23
+What is the singer holding?,1,0,0,g0t23
+What is the young woman holding?,1,0,0,g0t23
+What is the doctor holding in their hand?,1,0,0,g0t24
+What is the girl holding in their hand in the video?,1,0,0,g0t24
+What is the girl holding in their hand?,1,0,0,g0t24
+What is the old man holding in their hand?,1,0,0,g0t24
+What is the pilot holding in their hand?,1,0,0,g0t24
+What is the scientist holding in their hand?,1,0,0,g0t24
+What is the soldier holding in their hand?,1,0,0,g0t24
+What is the woman holding in their hand?,1,0,0,g0t24
+"According to the video, how many players are visible in this scene?",1,0,0,g0t25
+How many buildings are visible in this scene?,1,0,0,g0t25
+How many chairs are visible in this scene?,1,0,0,g0t25
+How many cups are visible in this scene?,1,0,0,g0t25
+How many musicians are visible in this scene?,1,0,0,g0t25
+How many screens are visible in this scene?,1,0,0,g0t25
+How many trees are visible in this scene?,1,0,0,g0t25
+"In this video, how many musicians are visible in this scene?",1,0,0,g0t25
+How many balloons can be seen in the frame?,1,0,0,g0t26
+How many birds can be seen in the frame?,1,0,0,g0t26
+How many boats can be seen in the frame?,1,0,0,g0t26
+How many chairs can be seen in the frame?,1,0,0,g0t26
+How many flags can be seen in the frame?,1,0,0,g0t26
+How many screens can be seen in the frame?,1,0,0,g0t26
+How many windows can be seen in the frame?,1,0,0,g0t26
+"In the video, how many musicians can be seen in the frame?",1,0,0,g0t26
+How many balloons are in the classroom at that moment?,1,0,0,g0t27
+How many candles are in the stage at that moment?,1,0,0,g0t27
+How many flags are in the street at that moment?,1,0,0,g0t27
+How many students are in the beach at that moment?,1,0,0,g0t27
+How many students are in the gym at that moment?,1,0,0,g0t27
+How many trees are in the lab at that moment?,1,0,0,g0t27
+How many windows are in the court at that moment?,1,0,0,g0t27
+"In this video, how many people are in the classroom at that moment?",1,0,0,g0t27
+"In the video, what is the facial expression of the pianist?",1,0,0,g0t28
+What is the facial expression of the boy?,1,0,0,g0t28
+What is the facial expression of the climber in the video?,1,0,0,g0t28
+What is the facial expression of the farmer?,1,0,0,g0t28
+What is the facial expression of the man?,1,0,0,g0t28
+What is the facial expression of the player?,1,0,0,g0t28
+What is the facial expression of the referee?,1,0,0,g0t28
+What is the facial expression of the reporter?,1,0,0,g0t28
+"From the video, what shape is the tent?",1,0,0,g0t29
+What shape is the bicycle?,1,0,0,g0t29
+What shape is the bottle?,1,0,0,g0t29
+What shape is the box?,1,0,0,g0t29
+What shape is the clock?,1,0,0,g0t29
+What shape is the lamp?,1,0,0,g0t29
+What shape is the map?,1,0,0,g0t29
+What shape is the truck in the video?,1,0,0,g0t29
+"Based on the video, what is the mechanic wearing?",1,0,0,g0t3
+"In the video, what is the coach wearing?",1,0,0,g0t3
+"In this video, what is the coach wearing?",1,0,0,g0t3
+"In this video, what is the mechanic wearing?",1,0,0,g0t3
+What is the girl wearing?,1,0,0,g0t3
+What is the player wearing?,1,0,0,g0t3
+What is the scientist wearing?,1,0,0,g0t3
+What is the waiter wearing?,1,0,0,g0t3
+"According to the video, what material is the lamp made of?",1,0,0,g0t30
+"Based on the video, what material is the helmet made of?",1,0,0,g0t30
+"In this video, what material is the mug made of?",1,0,0,g0t30
+What material is the bicycle made of?,1,0,0,g0t30
+What material is the door made of?,1,0,0,g0t30
+What material is the key made of?,1,0,0,g0t30
+What material is the phone made of?,1,0,0,g0t30
+What material is the plate made of in the video?,1,0,0,g0t30
+"From the video, is the scientist wearing glasses?",1,0,0,g0t31
+"In this video, is the artist wearing glasses?",1,0,0,g0t31
+Is the dancer wearing glasses?,1,0,0,g0t31
+Is the girl wearing glasses?,1,0,0,g0t31
+Is the interviewer wearing glasses?,1,0,0,g0t31
+Is the mechanic wearing glasses?,1,0,0,g0t31
+Is the referee wearing glasses?,1,0,0,g0t31
+Is the student wearing glasses?,1,0,0,g0t31
+"In the video, what does the boat look like?",1,0,0,g0t32
+"In this video, what does the truck look like?",1,0,0,g0t32
+What does the bicycle look like?,1,0,0,g0t32
+What does the book look like?,1,0,0,g0t32
+What does the painting look like in the video?,1,0,0,g0t32
+What does the phone look like?,1,0,0,g0t32
+What does the table look like?,1,0,0,g0t32
+What does the vase look like?,1,0,0,g0t32
+"In the video, which hand is the girl using to hold the knife?",1,0,0,g0t33
+Which hand is the artist using to hold the door?,1,0,0,g0t33
+Which hand is the artist using to hold the kite in the video?,1,0,0,g0t33
+Which hand is the interviewer using to hold the flag?,1,0,0,g0t33
+Which hand is the singer using to hold the clock?,1,0,0,g0t33
+Which hand is the soldier using to hold the cup?,1,0,0,g0t33
+Which hand is the vlogger using to hold the cup?,1,0,0,g0t33
+Which hand is the woman using to hold the kite?,1,0,0,g0t33
+"According to the video, what is displayed on the screen behind the artist?",1,0,0,g0t34
+"Based on the video, what is displayed on the screen behind the dancer?",1,0,0,g0t34
+"In this video, what is displayed on the screen behind the mechanic?",1,0,0,g0t34
+"In this video, what is displayed on the screen behind the student?",1,0,0,g0t34
+What is displayed on the screen behind the interviewer?,1,0,0,g0t34
+What is displayed on the screen behind the referee?,1,0,0,g0t34
+What is displayed on the screen behind the vlogger?,1,0,0,g0t34
+What is displayed on the screen behind the young woman?,1,0,0,g0t34
+"According to the video, what time is shown on the clock?",1,0,0,g0t35
+"Based on the video, what time is shown on the clock?",1,0,0,g0t35
+"In the video, what time is shown on the clock?",1,0,0,g0t35
+"In this video, what time is shown on the clock?",1,0,0,g0t35
+What time is shown on the clock?,1,0,0,g0t35
+"In the video, which instrument is the climber playing?",1,0,0,g0t36
+Which instrument is the dancer playing?,1,0,0,g0t36
+Which instrument is the farmer playing?,1,0,0,g0t36
+Which instrument is the goalkeeper playing in the video?,1,0,0,g0t36
+Which instrument is the magician playing?,1,0,0,g0t36
+Which instrument is the pianist playing in the video?,1,0,0,g0t36
+Which instrument is the scientist playing in the video?,1,0,0,g0t36
+Which instrument is the vlogger playing?,1,0,0,g0t36
+"According to the video, what is the color of the athlete's hair?",1,0,0,g0t37
+"According to the video, what is the color of the guest's hair?",1,0,0,g0t37
+"From the video, what is the color of the man's hair?",1,0,0,g0t37
+What is the color of the artist's hair?,1,0,0,g0t37
+What is the color of the goalkeeper's hair?,1,0,0,g0t37
+What is the color of the host's hair?,1,0,0,g0t37
+What is the color of the man's hair?,1,0,0,g0t37
+What is the color of the soldier's hair in the video?,1,0,0,g0t37
+"According to the video, in which room is the nurse standing?",1,0,0,g0t38
+"Based on the video, in which room is the old man standing?",1,0,0,g0t38
+In which room is the coach standing in the video?,1,0,0,g0t38
+In which room is the girl standing?,1,0,0,g0t38
+In which room is the host standing?,1,0,0,g0t38
+In which room is the pilot standing?,1,0,0,g0t38
+In which room is the scientist standing?,1,0,0,g0t38
+In which room is the vlogger standing?,1,0,0,g0t38
+"Based on the video, what is printed on the child's hat?",1,0,0,g0t39
+"From the video, what is printed on the chef's apron?",1,0,0,g0t39
+"In the video, what is printed on the driver's uniform?",1,0,0,g0t39
+"In this video, what is printed on the girl's uniform?",1,0,0,g0t39
+"In this video, what is printed on the old man's sweater?",1,0,0,g0t39
+What is printed on the old man's tie?,1,0,0,g0t39
+What is printed on the presenter's gloves?,1,0,0,g0t39
+What is printed on the teacher's shirt?,1,0,0,g0t39
+"According to the video, what is the dancer wearing on their head?",1,0,0,g0t4
+What is the athlete wearing on their head?,1,0,0,g0t4
+What is the man wearing on their head?,1,0,0,g0t4
+What is the nurse wearing on their head?,1,0,0,g0t4
+What is the police officer wearing on their head?,1,0,0,g0t4
+What is the shopkeeper wearing on their head?,1,0,0,g0t4
+What is the vlogger wearing on their head?,1,0,0,g0t4
+What is the young woman wearing on their head?,1,0,0,g0t4
+"According to the video, what is the score shown on the scoreboard?",1,0,0,g0t40
+"Based on the video, what is the score shown on the scoreboard?",1,0,0,g0t40
+"From the video, what is the score shown on the scoreboard?",1,0,0,g0t40
+"In this video, what is the score shown on the scoreboard?",1,0,0,g0t40
+What is the score shown on the scoreboard in the video?,1,0,0,g0t40
+What is the score shown on the scoreboard?,1,0,0,g0t40
+"Based on the video, which country's flag is displayed?",1,0,0,g0t41
+"From the video, which country's flag is displayed?",1,0,0,g0t41
+"In the video, which country's flag is displayed?",1,0,0,g0t41
+"In this video, which country's flag is displayed?",1,0,0,g0t41
+Which country's flag is displayed in the video?,1,0,0,g0t41
+Which country's flag is displayed?,1,0,0,g0t41
+"Based on the video, what type of building appears in the background?",1,0,0,g0t42
+"From the video, what type of building appears in the background?",1,0,0,g0t42
+"In the video, what type of building appears in the background?",1,0,0,g0t42
+"In this video, what type of building appears in the background?",1,0,0,g0t42
+What type of building appears in the background?,1,0,0,g0t42
+"According to the video, what is the weather like in the scene?",1,0,0,g0t43
+"Based on the video, what is the weather like in the scene?",1,0,0,g0t43
+"From the video, what is the weather like in the scene?",1,0,0,g0t43
+"In the video, what is the weather like in the scene?",1,0,0,g0t43
+"In this video, what is the weather like in the scene?",1,0,0,g0t43
+What is the weather like in the scene?,1,0,0,g0t43
+"According to the video, what is the name of the shop on the sign?",1,0,0,g0t44
+"From the video, what is the name of the shop on the sign?",1,0,0,g0t44
+"In the video, what is the name of the shop on the sign?",1,0,0,g0t44
+What is the name of the shop on the sign in the video?,1,0,0,g0t44
+What is the name of the shop on the sign?,1,0,0,g0t44
+"According to the video, what food is on the plate in front of the man?",1,0,0,g0t45
+"From the video, what food is on the plate in front of the teacher?",1,0,0,g0t45
+"In this video, what food is on the plate in front of the interviewer?",1,0,0,g0t45
+What food is on the plate in front of the athlete?,1,0,0,g0t45
+What food is on the plate in front of the guest?,1,0,0,g0t45
+What food is on the plate in front of the nurse?,1,0,0,g0t45
+What food is on the plate in front of the shopkeeper?,1,0,0,g0t45
+What food is on the plate in front of the singer?,1,0,0,g0t45
+"From the video, what is the person in the blue cap holding?",1,0,0,g0t46
+"In the video, what is the person in the green cap holding?",1,0,0,g0t46
+"In the video, what is the person in the green hat holding?",1,0,0,g0t46
+What is the person in the blue gloves holding?,1,0,0,g0t46
+What is the person in the green cap holding in the video?,1,0,0,g0t46
+What is the person in the silver dress holding?,1,0,0,g0t46
+What is the person in the silver shirt holding?,1,0,0,g0t46
+What is the person in the yellow coat holding in the video?,1,0,0,g0t46
+"According to the video, which of the following colors is the vase?",1,0,0,g0t47
+"Based on the video, which of the following colors is the kite?",1,0,0,g0t47
+"From the video, which of the following colors is the plate?",1,0,0,g0t47
+"In the video, which of the following colors is the camera?",1,0,0,g0t47
+"In the video, which of the following colors is the map?",1,0,0,g0t47
+Which of the following colors is the bottle?,1,0,0,g0t47
+Which of the following colors is the suitcase?,1,0,0,g0t47
+Which of the following colors is the truck?,1,0,0,g0t47
+"Based on the video, which of the following objects is on the table?",1,0,0,g0t48
+"From the video, which of the following objects is on the table?",1,0,0,g0t48
+"In the video, which of the following objects is on the table?",1,0,0,g0t48
+Which of the following objects is on the table in the video?,1,0,0,g0t48
+Which of the following objects is on the table?,1,0,0,g0t48
+"According to the video, what color is the suitcase in the first scene?",1,0,0,g0t49
+"From the video, what color is the cake in the first scene?",1,0,0,g0t49
+What color is the helmet in the first scene?,1,0,0,g0t49
+What color is the kite in the first scene?,1,0,0,g0t49
+What color is the lamp in the first scene?,1,0,0,g0t49
+What color is the phone in the first scene?,1,0,0,g0t49
+What color is the robot in the first scene?,1,0,0,g0t49
+What color is the vase in the first scene?,1,0,0,g0t49
+"According to the video, what is written on the label?",1,0,0,g0t5
+"Based on the video, what is written on the billboard?",1,0,0,g0t5
+"In the video, what is written on the cup?",1,0,0,g0t5
+What is written on the banner?,1,0,0,g0t5
+What is written on the billboard?,1,0,0,g0t5
+What is written on the cup?,1,0,0,g0t5
+What is written on the license plate?,1,0,0,g0t5
+What is written on the whiteboard?,1,0,0,g0t5
+"In this video, what is written on the newspaper at the end of the video?",1,0,0,g0t50
+What is written on the T-shirt at the end of the video?,1,0,0,g0t50
+What is written on the banner at the end of the video?,1,0,0,g0t50
+What is written on the box at the end of the video?,1,0,0,g0t50
+What is written on the cup at the end of the video?,1,0,0,g0t50
+What is written on the license plate at the end of the video?,1,0,0,g0t50
+What is written on the scoreboard at the end of the video?,1,0,0,g0t50
+What is written on the slide at the end of the video?,1,0,0,g0t50
+"According to the video, what is the soldier wearing at the beginning of the video?",1,0,0,g0t51
+"In the video, what is the speaker wearing at the beginning of the video?",1,0,0,g0t51
+What is the artist wearing at the beginning of the video?,1,0,0,g0t51
+What is the doctor wearing at the beginning of the video?,1,0,0,g0t51
+What is the driver wearing at the beginning of the video?,1,0,0,g0t51
+What is the referee wearing at the beginning of the video?,1,0,0,g0t51
+What is the reporter wearing at the beginning of the video?,1,0,0,g0t51
+What is the singer wearing at the beginning of the video?,1,0,0,g0t51
+"According to the video, what is shown in the opening shot?",1,0,0,g0t52
+"From the video, what is shown in the opening shot?",1,0,0,g0t52
+"In the video, what is shown in the opening shot?",1,0,0,g0t52
+"In this video, what is shown in the opening shot?",1,0,0,g0t52
+What is shown in the opening shot?,1,0,0,g0t52
+"According to the video, what is displayed on the screen in the last scene?",1,0,0,g0t53
+"Based on the video, what is displayed on the screen in the last scene?",1,0,0,g0t53
+"In this video, what is displayed on the screen in the last scene?",1,0,0,g0t53
+What is displayed on the screen in the last scene?,1,0,0,g0t53
+"Based on the video, what logo appears in the final frame?",1,0,0,g0t54
+"From the video, what logo appears in the final frame?",1,0,0,g0t54
+"In the video, what logo appears in the final frame?",1,0,0,g0t54
+What logo appears in the final frame?,1,0,0,g0t54
+What is the overall shape of the backpack?,1,0,0,g0t55
+What is the overall shape of the bottle?,1,0,0,g0t55
+What is the overall shape of the chair?,1,0,0,g0t55
+What is the overall shape of the drone?,1,0,0,g0t55
+What is the overall shape of the flag?,1,0,0,g0t55
+What is the overall shape of the helmet?,1,0,0,g0t55
+What is the overall shape of the map?,1,0,0,g0t55
+What is the overall shape of the painting?,1,0,0,g0t55
+"Based on the video, what are all the players wearing?",1,0,0,g0t56
+"From the video, what are all the players wearing?",1,0,0,g0t56
+"In the video, what are all the players wearing?",1,0,0,g0t56
+"In this video, what are all the players wearing?",1,0,0,g0t56
+What are all the players wearing in the video?,1,0,0,g0t56
+What are all the players wearing?,1,0,0,g0t56
+"According to the video, what is the whole team wearing in the group photo?",1,0,0,g0t57
+"Based on the video, what is the whole team wearing in the group photo?",1,0,0,g0t57
+"From the video, what is the whole team wearing in the group photo?",1,0,0,g0t57
+"In this video, what is the whole team wearing in the group photo?",1,0,0,g0t57
+What is the whole team wearing in the group photo in the video?,1,0,0,g0t57
+What is the whole team wearing in the group photo?,1,0,0,g0t57
+"From the video, what is the child wearing at 8:39?",1,0,0,g0t58
+"In the video, what is the interviewer wearing at 4:08?",1,0,0,g0t58
+What is the child wearing at 5:13?,1,0,0,g0t58
+What is the presenter wearing at 3:02?,1,0,0,g0t58
+What is the scientist wearing at 4:22?,1,0,0,g0t58
+What is the speaker wearing at 0:02?,1,0,0,g0t58
+What is the speaker wearing at 2:55?,1,0,0,g0t58
+What is the vlogger wearing at 8:56?,1,0,0,g0t58
+"From the video, what is shown on the menu at 2:26?",1,0,0,g0t59
+"In the video, what is shown on the door at 0:31?",1,0,0,g0t59
+"In the video, what is shown on the screen at 7:13?",1,0,0,g0t59
+"In this video, what is shown on the truck at 9:44?",1,0,0,g0t59
+What is shown on the cup at 9:42?,1,0,0,g0t59
+What is shown on the sign at 1:54?,1,0,0,g0t59
+What is shown on the sign at 4:46?,1,0,0,g0t59
+What is shown on the sign at 5:55?,1,0,0,g0t59
+"Based on the video, what text appears on the banner?",1,0,0,g0t6
+"From the video, what text appears on the newspaper?",1,0,0,g0t6
+"In the video, what text appears on the door?",1,0,0,g0t6
+"In this video, what text appears on the title card?",1,0,0,g0t6
+What text appears on the billboard?,1,0,0,g0t6
+What text appears on the box in the video?,1,0,0,g0t6
+What text appears on the label?,1,0,0,g0t6
+What text appears on the scoreboard?,1,0,0,g0t6
+"In the video, what is the color of the cup on the left?",1,0,0,g0t60
+What is the color of the bag on the left?,1,0,0,g0t60
+What is the color of the chair on the left in the video?,1,0,0,g0t60
+What is the color of the kite on the left?,1,0,0,g0t60
+What is the color of the knife on the left in the video?,1,0,0,g0t60
+What is the color of the suitcase on the left?,1,0,0,g0t60
+What is the color of the table on the left?,1,0,0,g0t60
+What is the color of the vase on the left?,1,0,0,g0t60
+"Based on the video, what does the label on the tent say?",1,0,0,g0t61
+"In the video, what does the label on the table say?",1,0,0,g0t61
+What does the label on the backpack say?,1,0,0,g0t61
+What does the label on the boat say?,1,0,0,g0t61
+What does the label on the bus say?,1,0,0,g0t61
+What does the label on the microphone say?,1,0,0,g0t61
+What does the label on the plate say?,1,0,0,g0t61
+What does the label on the tent say?,1,0,0,g0t61
+"From the video, where is the waiter sitting?",1,0,0,g0t62
+Where is the artist sitting?,1,0,0,g0t62
+Where is the athlete sitting?,1,0,0,g0t62
+Where is the boy sitting?,1,0,0,g0t62
+Where is the goalkeeper sitting in the video?,1,0,0,g0t62
+Where is the main character sitting?,1,0,0,g0t62
+Where is the man sitting?,1,0,0,g0t62
+Where is the reporter sitting?,1,0,0,g0t62
+What animal is sitting on the bowl?,1,0,0,g0t63
+What animal is sitting on the drone?,1,0,0,g0t63
+What animal is sitting on the guitar in the video?,1,0,0,g0t63
+What animal is sitting on the helmet?,1,0,0,g0t63
+What animal is sitting on the key in the video?,1,0,0,g0t63
+What animal is sitting on the knife in the video?,1,0,0,g0t63
+What animal is sitting on the sofa?,1,0,0,g0t63
+What animal is sitting on the vase in the video?,1,0,0,g0t63
+"From the video, what word is shown on the box?",1,0,0,g0t7
+"In this video, what word is shown on the T-shirt?",1,0,0,g0t7
+What word is shown on the T-shirt?,1,0,0,g0t7
+What word is shown on the book cover?,1,0,0,g0t7
+What word is shown on the box?,1,0,0,g0t7
+What word is shown on the label?,1,0,0,g0t7
+What word is shown on the screen?,1,0,0,g0t7
+What word is shown on the sign?,1,0,0,g0t7
+"In this video, what number is displayed on the T-shirt?",1,0,0,g0t8
+"In this video, what number is displayed on the book cover?",1,0,0,g0t8
+What number is displayed on the box in the video?,1,0,0,g0t8
+What number is displayed on the box?,1,0,0,g0t8
+What number is displayed on the cup?,1,0,0,g0t8
+What number is displayed on the label?,1,0,0,g0t8
+What number is displayed on the scoreboard?,1,0,0,g0t8
+What number is displayed on the whiteboard?,1,0,0,g0t8
+"According to the video, what does the slide say?",1,0,0,g0t9
+"In this video, what does the sign say?",1,0,0,g0t9
+What does the banner say?,1,0,0,g0t9
+What does the billboard say?,1,0,0,g0t9
+What does the license plate say in the video?,1,0,0,g0t9
+What does the title card say?,1,0,0,g0t9
+What does the truck say?,1,0,0,g0t9
+What does the whiteboard say?,1,0,0,g0t9
+"According to the video, what does the artist do after the music stops?",0,1,0,g1t0
+"In this video, what does the doctor do after the phone rings?",0,1,0,g1t0
+What does the coach do after the door opens?,0,1,0,g1t0
+What does the interviewer do after the curtain rises?,0,1,0,g1t0
+What does the mechanic do after the bell rings?,0,1,0,g1t0
+What does the presenter do after the guest arrives in the video?,0,1,0,g1t0
+What does the presenter do after the race begins?,0,1,0,g1t0
+What does the waiter do after the curtain rises?,0,1,0,g1t0
+"Based on the video, what does the student do before the race begins?",0,1,0,g1t1
+"In the video, what does the dancer do before the door opens?",0,1,0,g1t1
+What does the artist do before the guest arrives in the video?,0,1,0,g1t1
+What does the bear do before the race begins?,0,1,0,g1t1
+What does the cat do before the rain starts?,0,1,0,g1t1
+What does the girl do before the camera zooms in in the video?,0,1,0,g1t1
+What does the host do before the balloon pops?,0,1,0,g1t1
+What does the puppy do before the balloon pops?,0,1,0,g1t1
+"Based on the video, what causes the magician to climb the ladder?",0,1,0,g1t10
+What causes the child to pass the ball?,0,1,0,g1t10
+What causes the child to wave?,0,1,0,g1t10
+What causes the doctor to lift the weight?,0,1,0,g1t10
+What causes the mechanic to raise a hand?,0,1,0,g1t10
+What causes the pianist to shout?,0,1,0,g1t10
+What causes the pilot to write on the board?,0,1,0,g1t10
+What causes the puppy to start the engine?,0,1,0,g1t10
+What is the farmer doing while the crowd cheers?,0,1,0,g1t11
+What is the girl doing while the water boils?,0,1,0,g1t11
+What is the magician doing while the car drives past?,0,1,0,g1t11
+What is the player doing while the band performs in the video?,0,1,0,g1t11
+What is the referee doing while the band performs?,0,1,0,g1t11
+What is the soldier doing while the video plays?,0,1,0,g1t11
+What is the speaker doing while the water boils?,0,1,0,g1t11
+What is the woman doing while the presenter speaks?,0,1,0,g1t11
+How does the climber turn around?,0,1,0,g1t12
+How does the farmer change the slide?,0,1,0,g1t12
+How does the fox play the guitar?,0,1,0,g1t12
+How does the goalkeeper nod?,0,1,0,g1t12
+How does the interviewer score a goal?,0,1,0,g1t12
+How does the police officer raise a hand?,0,1,0,g1t12
+How does the puppy drop the cup?,0,1,0,g1t12
+How does the referee laugh?,0,1,0,g1t12
+What action does the artist perform after the timer goes off?,0,1,0,g1t13
+What action does the farmer perform after the song ends?,0,1,0,g1t13
+What action does the guest perform after the power goes out?,0,1,0,g1t13
+What action does the host perform after the ball hits the window?,0,1,0,g1t13
+What action does the mechanic perform after the door opens?,0,1,0,g1t13
+What action does the nurse perform after the referee blows the whistle?,0,1,0,g1t13
+What action does the pilot perform after the host introduces the guest?,0,1,0,g1t13
+What action does the woman perform after the lights go out?,0,1,0,g1t13
+"From the video, what does the dog do with the bicycle?",0,1,0,g1t14
+What does the cat do with the bowl?,0,1,0,g1t14
+What does the chef do with the suitcase?,0,1,0,g1t14
+What does the child do with the backpack?,0,1,0,g1t14
+What does the interviewer do with the plate?,0,1,0,g1t14
+What does the man do with the lamp in the video?,0,1,0,g1t14
+What does the police officer do with the car?,0,1,0,g1t14
+What does the teacher do with the mug?,0,1,0,g1t14
+"According to the video, what does the artist do next?",0,1,0,g1t15
+"In the video, what does the child do next?",0,1,0,g1t15
+What does the doctor do next?,0,1,0,g1t15
+What does the fox do next?,0,1,0,g1t15
+What does the girl do next?,0,1,0,g1t15
+What does the host do next?,0,1,0,g1t15
+What does the nurse do next?,0,1,0,g1t15
+What does the referee do next?,0,1,0,g1t15
+"According to the video, when does the vlogger dance?",0,1,0,g1t16
+"In this video, when does the bird drop the cup?",0,1,0,g1t16
+When does the artist press the button?,0,1,0,g1t16
+When does the bird point at the screen in the video?,0,1,0,g1t16
+When does the girl cross the finish line?,0,1,0,g1t16
+When does the goalkeeper sit down?,0,1,0,g1t16
+When does the reporter play the guitar?,0,1,0,g1t16
+When does the vlogger change the slide?,0,1,0,g1t16
+At what moment does the climber score a goal?,0,1,0,g1t17
+At what moment does the coach change the slide?,0,1,0,g1t17
+At what moment does the driver write on the board?,0,1,0,g1t17
+At what moment does the goalkeeper wave?,0,1,0,g1t17
+At what moment does the guest answer the phone?,0,1,0,g1t17
+At what moment does the player change the slide?,0,1,0,g1t17
+At what moment does the referee lift the weight in the video?,0,1,0,g1t17
+"In the video, at what moment does the reporter laugh?",0,1,0,g1t17
+What does the artist say after the camera zooms in?,0,1,0,g1t18
+What does the dancer say after the referee blows the whistle?,0,1,0,g1t18
+What does the main character say after the music stops in the video?,0,1,0,g1t18
+What does the nurse say after the glass breaks?,0,1,0,g1t18
+What does the player say after the balloon pops?,0,1,0,g1t18
+What does the presenter say after the dog barks?,0,1,0,g1t18
+What does the speaker say after the whistle blows?,0,1,0,g1t18
+What does the young woman say after the music stops?,0,1,0,g1t18
+"Based on the video, what does the child say about the lamp?",0,1,0,g1t19
+"Based on the video, what does the player say about the flag?",0,1,0,g1t19
+"From the video, what does the dancer say about the trophy?",0,1,0,g1t19
+"In this video, what does the coach say about the backpack?",0,1,0,g1t19
+What does the pianist say about the kite?,0,1,0,g1t19
+What does the presenter say about the guitar?,0,1,0,g1t19
+What does the reporter say about the helmet?,0,1,0,g1t19
+What does the vlogger say about the trophy?,0,1,0,g1t19
+"According to the video, what does the singer do right after the bus pulls away?",0,1,0,g1t2
+"Based on the video, what does the magician do right after the lights go out?",0,1,0,g1t2
+What does the athlete do right after the bus pulls away?,0,1,0,g1t2
+What does the goalkeeper do right after the referee blows the whistle?,0,1,0,g1t2
+What does the puppy do right after the camera zooms in?,0,1,0,g1t2
+What does the referee do right after the host introduces the guest in the video?,0,1,0,g1t2
+What does the singer do right after the timer goes off?,0,1,0,g1t2
+What does the young woman do right after the alarm rings?,0,1,0,g1t2
+"According to the video, what does the artist mention right before the power goes out?",0,1,0,g1t20
+"From the video, what does the scientist mention right before the camera zooms in?",0,1,0,g1t20
+What does the artist mention right before the race begins?,0,1,0,g1t20
+What does the dancer mention right before the train arrives?,0,1,0,g1t20
+What does the farmer mention right before the rain starts?,0,1,0,g1t20
+What does the referee mention right before the door opens?,0,1,0,g1t20
+What does the student mention right before the power goes out?,0,1,0,g1t20
+What does the waiter mention right before the bell rings in the video?,0,1,0,g1t20
+"Based on the video, what sound is heard when the timer goes off?",0,1,0,g1t21
+"In this video, what sound is heard when the ball hits the window?",0,1,0,g1t21
+"In this video, what sound is heard when the host introduces the guest?",0,1,0,g1t21
+What sound is heard when the crowd cheers?,0,1,0,g1t21
+What sound is heard when the game starts?,0,1,0,g1t21
+What sound is heard when the power goes out?,0,1,0,g1t21
+What sound is heard when the song ends?,0,1,0,g1t21
+What sound is heard when the teacher enters in the video?,0,1,0,g1t21
+"According to the video, what happens to the drone after the rain starts?",0,1,0,g1t22
+What happens to the bag after the race begins?,0,1,0,g1t22
+What happens to the ball after the curtain rises in the video?,0,1,0,g1t22
+What happens to the bicycle after the teacher enters?,0,1,0,g1t22
+What happens to the key after the timer goes off?,0,1,0,g1t22
+What happens to the kite after the glass breaks?,0,1,0,g1t22
+What happens to the suitcase after the bell rings?,0,1,0,g1t22
+What happens to the umbrella after the music stops?,0,1,0,g1t22
+"Based on the video, what happens to the camera?",0,1,0,g1t23
+What happens to the bag?,0,1,0,g1t23
+What happens to the book?,0,1,0,g1t23
+What happens to the cake?,0,1,0,g1t23
+What happens to the car?,0,1,0,g1t23
+What happens to the chair?,0,1,0,g1t23
+What happens to the kite?,0,1,0,g1t23
+What happens to the table?,0,1,0,g1t23
+"Based on the video, where does the bear go after the water boils?",0,1,0,g1t24
+"Based on the video, where does the coach go after the host introduces the guest?",0,1,0,g1t24
+"From the video, where does the shopkeeper go after the curtain rises?",0,1,0,g1t24
+"In this video, where does the host go after the lights go out?",0,1,0,g1t24
+Where does the athlete go after the teacher enters?,0,1,0,g1t24
+Where does the farmer go after the balloon pops?,0,1,0,g1t24
+Where does the puppy go after the game starts?,0,1,0,g1t24
+Where does the puppy go after the song ends in the video?,0,1,0,g1t24
+"According to the video, who kicks the ball after the camera zooms in?",0,1,0,g1t25
+"Based on the video, who takes off the hat after the door opens?",0,1,0,g1t25
+Who drops the cup after the water boils?,0,1,0,g1t25
+Who enters the room after the alarm rings?,0,1,0,g1t25
+Who raises a hand after the fireworks start in the video?,0,1,0,g1t25
+Who takes off the hat after the glass breaks?,0,1,0,g1t25
+Who throws the ball after the bus pulls away?,0,1,0,g1t25
+Who walks onto the stage after the phone rings?,0,1,0,g1t25
+"From the video, what is the old man trying to do?",0,1,0,g1t26
+"In this video, what is the driver trying to do?",0,1,0,g1t26
+What is the child trying to do?,0,1,0,g1t26
+What is the coach trying to do?,0,1,0,g1t26
+What is the dog trying to do?,0,1,0,g1t26
+What is the driver trying to do in the video?,0,1,0,g1t26
+What is the farmer trying to do?,0,1,0,g1t26
+What is the referee trying to do?,0,1,0,g1t26
+"In this video, what is the purpose of the woman's action after the balloon pops?",0,1,0,g1t27
+What is the purpose of the climber's action after the phone rings?,0,1,0,g1t27
+What is the purpose of the goalkeeper's action after the door opens?,0,1,0,g1t27
+What is the purpose of the guest's action after the fireworks start?,0,1,0,g1t27
+What is the purpose of the main character's action after the balloon pops?,0,1,0,g1t27
+What is the purpose of the police officer's action after the bell rings?,0,1,0,g1t27
+What is the purpose of the presenter's action after the guest arrives?,0,1,0,g1t27
+What is the purpose of the soldier's action after the whistle blows in the video?,0,1,0,g1t27
+"In this video, what step comes after the cat gets into the car?",0,1,0,g1t28
+What step comes after the cat points at the screen?,0,1,0,g1t28
+What step comes after the girl kicks the ball?,0,1,0,g1t28
+What step comes after the horse answers the phone?,0,1,0,g1t28
+What step comes after the pilot answers the phone?,0,1,0,g1t28
+What step comes after the singer lights the candle?,0,1,0,g1t28
+What step comes after the singer shakes hands with the guest?,0,1,0,g1t28
+What step comes after the speaker pours the water?,0,1,0,g1t28
+"Based on the video, in what way does the man press the button?",0,1,0,g1t29
+"Based on the video, in what way does the monkey pour the water?",0,1,0,g1t29
+In what way does the farmer point at the screen in the video?,0,1,0,g1t29
+In what way does the fox turn around?,0,1,0,g1t29
+In what way does the horse press the button?,0,1,0,g1t29
+In what way does the presenter shout?,0,1,0,g1t29
+In what way does the puppy start the engine?,0,1,0,g1t29
+In what way does the speaker point at the screen?,0,1,0,g1t29
+"Based on the video, what happens after the student shakes hands with the guest?",0,1,0,g1t3
+"In this video, what happens after the horse sits down?",0,1,0,g1t3
+What happens after the chef waves at the camera in the video?,0,1,0,g1t3
+What happens after the driver lifts the weight?,0,1,0,g1t3
+What happens after the referee picks up the box?,0,1,0,g1t3
+What happens after the referee plays the guitar?,0,1,0,g1t3
+What happens after the teacher lights the candle?,0,1,0,g1t3
+What happens after the young woman picks up the box?,0,1,0,g1t3
+"Based on the video, what does the doctor do immediately after the game starts?",0,1,0,g1t30
+"Based on the video, what does the soldier do immediately after the ball hits the window?",0,1,0,g1t30
+"Based on the video, what does the young woman do immediately after the water boils?",0,1,0,g1t30
+"From the video, what does the main character do immediately after the camera zooms in?",0,1,0,g1t30
+What does the bird do immediately after the water boils?,0,1,0,g1t30
+What does the host do immediately after the race begins?,0,1,0,g1t30
+What does the magician do immediately after the race begins?,0,1,0,g1t30
+What does the mechanic do immediately after the ball hits the window in the video?,0,1,0,g1t30
+"Based on the video, what is the result of the young woman's attempt to raise a hand?",0,1,0,g1t31
+What is the result of the boy's attempt to leave the house?,0,1,0,g1t31
+What is the result of the coach's attempt to stir the pot?,0,1,0,g1t31
+What is the result of the man's attempt to kick the ball?,0,1,0,g1t31
+What is the result of the player's attempt to enter the room?,0,1,0,g1t31
+What is the result of the speaker's attempt to cut the vegetables?,0,1,0,g1t31
+What is the result of the waiter's attempt to nod?,0,1,0,g1t31
+What is the result of the woman's attempt to lift the weight?,0,1,0,g1t31
+How does the child respond to the old man's question?,0,1,0,g1t32
+How does the coach respond to the pilot's question?,0,1,0,g1t32
+How does the guest respond to the interviewer's question?,0,1,0,g1t32
+How does the guest respond to the old man's question?,0,1,0,g1t32
+How does the pianist respond to the vlogger's question?,0,1,0,g1t32
+How does the reporter respond to the referee's question?,0,1,0,g1t32
+How does the speaker respond to the old man's question?,0,1,0,g1t32
+"In the video, how does the coach respond to the referee's question?",0,1,0,g1t32
+"From the video, what does the presenter ask the climber?",0,1,0,g1t33
+What does the coach ask the pianist?,0,1,0,g1t33
+What does the dancer ask the doctor?,0,1,0,g1t33
+What does the driver ask the doctor in the video?,0,1,0,g1t33
+What does the guest ask the host?,0,1,0,g1t33
+What does the main character ask the athlete?,0,1,0,g1t33
+What does the main character ask the driver?,0,1,0,g1t33
+What does the shopkeeper ask the host?,0,1,0,g1t33
+"Based on the video, what does the player do at the end of the video?",0,1,0,g1t34
+"From the video, what does the presenter do at the end of the video?",0,1,0,g1t34
+What does the child do at the end of the video?,0,1,0,g1t34
+What does the fox do at the end of the video?,0,1,0,g1t34
+What does the girl do at the end of the video?,0,1,0,g1t34
+What does the man do at the end of the video?,0,1,0,g1t34
+What does the teacher do at the end of the video?,0,1,0,g1t34
+What does the woman do at the end of the video?,0,1,0,g1t34
+"According to the video, what happens at the beginning of the video?",0,1,0,g1t35
+"Based on the video, what happens at the beginning of the video?",0,1,0,g1t35
+"From the video, what happens at the beginning of the video?",0,1,0,g1t35
+"In the video, what happens at the beginning of the video?",0,1,0,g1t35
+"In this video, what happens at the beginning of the video?",0,1,0,g1t35
+What happens at the beginning of the video?,0,1,0,g1t35
+"According to the video, how does the video end?",0,1,0,g1t36
+"Based on the video, how does the video end?",0,1,0,g1t36
+"From the video, how does the video end?",0,1,0,g1t36
+How does the video end?,0,1,0,g1t36
+"According to the video, what happens in the first minute of the video?",0,1,0,g1t37
+"From the video, what happens in the first minute of the video?",0,1,0,g1t37
+"In the video, what happens in the first minute of the video?",0,1,0,g1t37
+"In this video, what happens in the first minute of the video?",0,1,0,g1t37
+What happens in the first minute of the video?,0,1,0,g1t37
+"Based on the video, what happens between 7:55 and 8:59?",0,1,0,g1t38
+What happens between 2:20 and 4:44?,0,1,0,g1t38
+What happens between 3:01 and 4:06?,0,1,0,g1t38
+What happens between 3:22 and 3:37?,0,1,0,g1t38
+What happens between 3:36 and 4:54?,0,1,0,g1t38
+What happens between 4:05 and 5:10?,0,1,0,g1t38
+What happens between 4:56 and 5:59?,0,1,0,g1t38
+What happens between 9:03 and 9:31?,0,1,0,g1t38
+What does the dancer do at 6:55?,0,1,0,g1t39
+What does the guest do at 0:37?,0,1,0,g1t39
+What does the horse do at 9:27 in the video?,0,1,0,g1t39
+What does the host do at 1:07 in the video?,0,1,0,g1t39
+What does the man do at 2:58?,0,1,0,g1t39
+What does the mechanic do at 1:22?,0,1,0,g1t39
+What does the nurse do at 2:40 in the video?,0,1,0,g1t39
+What does the pianist do at 6:05?,0,1,0,g1t39
+"From the video, what happens right before the teacher enters?",0,1,0,g1t4
+What happens right before the bus pulls away?,0,1,0,g1t4
+What happens right before the host introduces the guest?,0,1,0,g1t4
+What happens right before the phone rings in the video?,0,1,0,g1t4
+What happens right before the phone rings?,0,1,0,g1t4
+What happens right before the rain starts?,0,1,0,g1t4
+What happens right before the song ends?,0,1,0,g1t4
+What happens right before the speech ends?,0,1,0,g1t4
+What is the boy doing in the beach?,0,1,0,g1t40
+What is the boy doing in the gym?,0,1,0,g1t40
+What is the dancer doing in the kitchen in the video?,0,1,0,g1t40
+What is the doctor doing in the lab?,0,1,0,g1t40
+What is the guest doing in the station?,0,1,0,g1t40
+What is the pilot doing in the store?,0,1,0,g1t40
+What is the police officer doing in the classroom?,0,1,0,g1t40
+What is the young woman doing in the classroom?,0,1,0,g1t40
+"From the video, why does the bicycle sink?",0,1,0,g1t41
+"From the video, why does the cup shake?",0,1,0,g1t41
+Why does the bus shake?,0,1,0,g1t41
+Why does the clock sink?,0,1,0,g1t41
+Why does the clock tip over in the video?,0,1,0,g1t41
+Why does the suitcase tip over?,0,1,0,g1t41
+Why does the umbrella start spinning?,0,1,0,g1t41
+Why does the vase stop?,0,1,0,g1t41
+What makes the clock break?,0,1,0,g1t42
+What makes the guitar start spinning?,0,1,0,g1t42
+What makes the map shake?,0,1,0,g1t42
+What makes the microphone stop in the video?,0,1,0,g1t42
+What makes the painting explode?,0,1,0,g1t42
+What makes the painting roll away?,0,1,0,g1t42
+What makes the plate stop?,0,1,0,g1t42
+What makes the vase roll away?,0,1,0,g1t42
+What does the chef do when the police officer waves at the camera?,0,1,0,g1t43
+What does the dancer do when the boy takes off the hat?,0,1,0,g1t43
+What does the farmer do when the farmer raises a hand in the video?,0,1,0,g1t43
+What does the farmer do when the referee opens the door?,0,1,0,g1t43
+What does the goalkeeper do when the chef plays the guitar?,0,1,0,g1t43
+What does the nurse do when the doctor takes off the hat?,0,1,0,g1t43
+What does the pilot do when the singer opens the door in the video?,0,1,0,g1t43
+What does the reporter do when the soldier drops the cup?,0,1,0,g1t43
+"According to the video, which of the following does the climber do after the bell rings?",0,1,0,g1t44
+"Based on the video, which of the following does the young woman do after the bell rings?",0,1,0,g1t44
+Which of the following does the climber do after the guest arrives?,0,1,0,g1t44
+Which of the following does the farmer do after the teacher enters in the video?,0,1,0,g1t44
+Which of the following does the host do after the whistle blows?,0,1,0,g1t44
+Which of the following does the mechanic do after the host introduces the guest?,0,1,0,g1t44
+Which of the following does the monkey do after the fireworks start?,0,1,0,g1t44
+Which of the following does the shopkeeper do after the teacher enters?,0,1,0,g1t44
+"In this video, what does the police officer do first when entering the living room?",0,1,0,g1t45
+What does the dancer do first when entering the street?,0,1,0,g1t45
+What does the fox do first when entering the arena?,0,1,0,g1t45
+What does the fox do first when entering the street?,0,1,0,g1t45
+What does the man do first when entering the library?,0,1,0,g1t45
+What does the presenter do first when entering the park?,0,1,0,g1t45
+What does the scientist do first when entering the airport?,0,1,0,g1t45
+What does the singer do first when entering the station?,0,1,0,g1t45
+"Based on the video, what is the last thing the pilot does before the timer goes off?",0,1,0,g1t46
+What is the last thing the cat does before the phone rings?,0,1,0,g1t46
+What is the last thing the main character does before the car crashes?,0,1,0,g1t46
+What is the last thing the main character does before the dog barks?,0,1,0,g1t46
+What is the last thing the monkey does before the ball hits the window?,0,1,0,g1t46
+What is the last thing the nurse does before the rain starts?,0,1,0,g1t46
+What is the last thing the old man does before the host introduces the guest?,0,1,0,g1t46
+What is the last thing the referee does before the speech ends?,0,1,0,g1t46
+"From the video, how does the artist dance in the field?",0,1,0,g1t47
+How does the boy raise a hand in the park?,0,1,0,g1t47
+How does the chef sit down in the classroom in the video?,0,1,0,g1t47
+How does the driver dance in the park?,0,1,0,g1t47
+How does the scientist score a goal in the airport?,0,1,0,g1t47
+How does the teacher check the phone in the market?,0,1,0,g1t47
+How does the teacher shoot the ball in the office?,0,1,0,g1t47
+"In this video, how does the goalkeeper score a goal in the beach?",0,1,0,g1t47
+"According to the video, what does the pilot explain while the rain falls?",0,1,0,g1t48
+"According to the video, what does the singer explain while the teacher explains the problem?",0,1,0,g1t48
+"In this video, what does the girl explain while the presenter speaks?",0,1,0,g1t48
+What does the athlete explain while the teacher explains the problem?,0,1,0,g1t48
+What does the pilot explain while the presenter speaks?,0,1,0,g1t48
+What does the presenter explain while the music plays?,0,1,0,g1t48
+What does the scientist explain while the rain falls?,0,1,0,g1t48
+What does the vlogger explain while the music plays?,0,1,0,g1t48
+"According to the video, how does the man move when the bell rings?",0,1,0,g1t49
+"According to the video, how does the nurse move when the referee blows the whistle?",0,1,0,g1t49
+"Based on the video, how does the vlogger move when the alarm rings?",0,1,0,g1t49
+How does the coach move when the music stops?,0,1,0,g1t49
+How does the girl move when the race begins?,0,1,0,g1t49
+How does the horse move when the teacher enters?,0,1,0,g1t49
+How does the presenter move when the crowd cheers?,0,1,0,g1t49
+How does the student move when the train arrives in the video?,0,1,0,g1t49
+"According to the video, what happens when the crowd cheers?",0,1,0,g1t5
+What happens when the glass breaks?,0,1,0,g1t5
+What happens when the guest arrives?,0,1,0,g1t5
+What happens when the phone rings?,0,1,0,g1t5
+What happens when the race begins in the video?,0,1,0,g1t5
+What happens when the song ends?,0,1,0,g1t5
+What happens when the train arrives in the video?,0,1,0,g1t5
+What happens when the whistle blows?,0,1,0,g1t5
+"According to the video, what happens during the car chase?",0,1,0,g1t50
+"According to the video, what happens during the concert?",0,1,0,g1t50
+What happens during the dance?,0,1,0,g1t50
+What happens during the experiment?,0,1,0,g1t50
+What happens during the interview?,0,1,0,g1t50
+What happens during the lecture in the video?,0,1,0,g1t50
+What happens during the race in the video?,0,1,0,g1t50
+What happens during the second goal?,0,1,0,g1t50
+"According to the video, what does the referee do during the demonstration?",0,1,0,g1t51
+What does the chef do during the ceremony?,0,1,0,g1t51
+What does the chef do during the performance?,0,1,0,g1t51
+What does the man do during the second goal?,0,1,0,g1t51
+What does the nurse do during the race?,0,1,0,g1t51
+What does the old man do during the match in the video?,0,1,0,g1t51
+What does the player do during the dance?,0,1,0,g1t51
+What does the singer do during the meeting?,0,1,0,g1t51
+"Based on the video, why does the girl stop during the dance?",0,1,0,g1t52
+"Based on the video, why does the presenter stop during the match?",0,1,0,g1t52
+"In the video, why does the reporter stop during the experiment?",0,1,0,g1t52
+Why does the farmer stop during the experiment?,0,1,0,g1t52
+Why does the mechanic stop during the workout?,0,1,0,g1t52
+Why does the presenter stop during the halftime break?,0,1,0,g1t52
+Why does the student stop during the dance?,0,1,0,g1t52
+Why does the woman stop during the fight scene?,0,1,0,g1t52
+"From the video, what is the reaction of the crowd when the alarm rings?",0,1,0,g1t53
+"In this video, what is the reaction of the crowd when the speech ends?",0,1,0,g1t53
+What is the reaction of the crowd when the ball hits the window?,0,1,0,g1t53
+What is the reaction of the crowd when the bell rings?,0,1,0,g1t53
+What is the reaction of the crowd when the host introduces the guest?,0,1,0,g1t53
+What is the reaction of the crowd when the referee blows the whistle?,0,1,0,g1t53
+What is the reaction of the crowd when the train arrives in the video?,0,1,0,g1t53
+What is the reaction of the crowd when the whistle blows?,0,1,0,g1t53
+"In the video, which direction does the artist move after the teacher enters?",0,1,0,g1t54
+Which direction does the athlete move after the water boils?,0,1,0,g1t54
+Which direction does the fox move after the water boils?,0,1,0,g1t54
+Which direction does the guest move after the power goes out?,0,1,0,g1t54
+Which direction does the magician move after the lights go out?,0,1,0,g1t54
+Which direction does the mechanic move after the timer goes off?,0,1,0,g1t54
+Which direction does the police officer move after the whistle blows?,0,1,0,g1t54
+Which direction does the young woman move after the water boils?,0,1,0,g1t54
+"Based on the video, how does the goalkeeper react when the ball hits the window?",0,1,0,g1t6
+"Based on the video, how does the monkey react when the glass breaks?",0,1,0,g1t6
+How does the coach react when the speech ends?,0,1,0,g1t6
+How does the farmer react when the phone rings?,0,1,0,g1t6
+How does the girl react when the car crashes?,0,1,0,g1t6
+How does the interviewer react when the referee blows the whistle?,0,1,0,g1t6
+How does the presenter react when the music stops?,0,1,0,g1t6
+How does the puppy react when the train arrives in the video?,0,1,0,g1t6
+"According to the video, how does the coach respond when the balloon pops?",0,1,0,g1t7
+How does the athlete respond when the music stops?,0,1,0,g1t7
+How does the main character respond when the rain starts?,0,1,0,g1t7
+How does the mechanic respond when the game starts?,0,1,0,g1t7
+How does the pianist respond when the ball hits the window?,0,1,0,g1t7
+How does the woman respond when the alarm rings?,0,1,0,g1t7
+"In the video, how does the nurse respond when the guest arrives?",0,1,0,g1t7
+"In the video, how does the student respond when the fireworks start?",0,1,0,g1t7
+Why does the bird point at the screen?,0,1,0,g1t8
+Why does the boy answer the phone in the video?,0,1,0,g1t8
+Why does the cat nod?,0,1,0,g1t8
+Why does the chef turn around?,0,1,0,g1t8
+Why does the student leave the house?,0,1,0,g1t8
+Why does the vlogger lift the weight?,0,1,0,g1t8
+Why does the waiter drop the cup?,0,1,0,g1t8
+Why does the woman play the guitar?,0,1,0,g1t8
+"From the video, why did the driver turn around?",0,1,0,g1t9
+Why did the boy shout?,0,1,0,g1t9
+Why did the child pick up the box?,0,1,0,g1t9
+Why did the nurse enter the room?,0,1,0,g1t9
+Why did the old man fall in the video?,0,1,0,g1t9
+Why did the pianist enter the room?,0,1,0,g1t9
+Why did the presenter nod?,0,1,0,g1t9
+Why did the shopkeeper lift the weight?,0,1,0,g1t9
+"In this video, what is the main topic of the talk?",0,0,1,g2t0
+What is the main topic of the documentary?,0,0,1,g2t0
+What is the main topic of the film?,0,0,1,g2t0
+What is the main topic of the lesson?,0,0,1,g2t0
+What is the main topic of the movie in the video?,0,0,1,g2t0
+What is the main topic of the performance?,0,0,1,g2t0
+What is the main topic of the presentation?,0,0,1,g2t0
+What is the main topic of the program?,0,0,1,g2t0
+"From the video, what is the news report mainly about?",0,0,1,g2t1
+"In the video, what is the talk mainly about?",0,0,1,g2t1
+"In this video, what is the interview mainly about?",0,0,1,g2t1
+What is the episode mainly about?,0,0,1,g2t1
+What is the news report mainly about?,0,0,1,g2t1
+What is the presentation mainly about?,0,0,1,g2t1
+What is the story mainly about?,0,0,1,g2t1
+What is the vlog mainly about?,0,0,1,g2t1
+"According to the video, how does the story develop over the course of the interview?",0,0,1,g2t10
+"Based on the video, how does the story develop over the course of the documentary?",0,0,1,g2t10
+How does the story develop over the course of the lecture?,0,0,1,g2t10
+How does the story develop over the course of the news report in the video?,0,0,1,g2t10
+How does the story develop over the course of the news report?,0,0,1,g2t10
+How does the story develop over the course of the performance?,0,0,1,g2t10
+How does the story develop over the course of the talk?,0,0,1,g2t10
+"In this video, how does the story develop over the course of the film?",0,0,1,g2t10
+How does the athlete's attitude change throughout the documentary?,0,0,1,g2t11
+How does the child's attitude change throughout the broadcast?,0,0,1,g2t11
+How does the dancer's attitude change throughout the video?,0,0,1,g2t11
+How does the doctor's attitude change throughout the documentary?,0,0,1,g2t11
+How does the doctor's attitude change throughout the movie?,0,0,1,g2t11
+How does the girl's attitude change throughout the show?,0,0,1,g2t11
+How does the nurse's attitude change throughout the video?,0,0,1,g2t11
+How does the teacher's attitude change throughout the match?,0,0,1,g2t11
+"From the video, what is the relationship between the soldier and the pianist?",0,0,1,g2t12
+What is the relationship between the athlete and the singer?,0,0,1,g2t12
+What is the relationship between the goalkeeper and the singer?,0,0,1,g2t12
+What is the relationship between the scientist and the woman?,0,0,1,g2t12
+What is the relationship between the shopkeeper and the pianist?,0,0,1,g2t12
+What is the relationship between the singer and the chef?,0,0,1,g2t12
+What is the relationship between the singer and the host?,0,0,1,g2t12
+What is the relationship between the woman and the host?,0,0,1,g2t12
+How are the different parts of the news report connected?,0,0,1,g2t13
+How are the different parts of the performance connected?,0,0,1,g2t13
+How are the different parts of the program connected?,0,0,1,g2t13
+How are the different parts of the show connected in the video?,0,0,1,g2t13
+How are the different parts of the story connected?,0,0,1,g2t13
+How are the different parts of the tutorial connected?,0,0,1,g2t13
+How are the different parts of the video connected?,0,0,1,g2t13
+How are the different parts of the vlog connected?,0,0,1,g2t13
+How is the interview structured?,0,0,1,g2t14
+How is the lesson structured?,0,0,1,g2t14
+How is the news report structured?,0,0,1,g2t14
+How is the presentation structured?,0,0,1,g2t14
+How is the tutorial structured?,0,0,1,g2t14
+"In the video, how is the tutorial structured?",0,0,1,g2t14
+"In the video, how is the video structured?",0,0,1,g2t14
+"In this video, how is the episode structured?",0,0,1,g2t14
+"According to the video, which of the following statements about the interview is true?",0,0,1,g2t15
+Which of the following statements about the broadcast is true in the video?,0,0,1,g2t15
+Which of the following statements about the broadcast is true?,0,0,1,g2t15
+Which of the following statements about the film is true?,0,0,1,g2t15
+Which of the following statements about the news report is true?,0,0,1,g2t15
+Which of the following statements about the performance is true?,0,0,1,g2t15
+Which of the following statements about the show is true in the video?,0,0,1,g2t15
+Which of the following statements about the talk is true?,0,0,1,g2t15
+"In this video, which of the following is not mentioned in the presentation?",0,0,1,g2t16
+Which of the following is not mentioned in the film?,0,0,1,g2t16
+Which of the following is not mentioned in the interview in the video?,0,0,1,g2t16
+Which of the following is not mentioned in the program?,0,0,1,g2t16
+Which of the following is not mentioned in the story in the video?,0,0,1,g2t16
+Which of the following is not mentioned in the talk in the video?,0,0,1,g2t16
+Which of the following is not mentioned in the talk?,0,0,1,g2t16
+Which of the following is not mentioned in the video?,0,0,1,g2t16
+"From the video, which statement is correct according to the lecture?",0,0,1,g2t17
+"In the video, which statement is correct according to the video?",0,0,1,g2t17
+Which statement is correct according to the lecture?,0,0,1,g2t17
+Which statement is correct according to the lesson?,0,0,1,g2t17
+Which statement is correct according to the program in the video?,0,0,1,g2t17
+Which statement is correct according to the program?,0,0,1,g2t17
+Which statement is correct according to the video?,0,0,1,g2t17
+Which statement is correct according to the vlog?,0,0,1,g2t17
+"According to the video, what can be inferred about the pianist from the interview?",0,0,1,g2t18
+"Based on the video, what can be inferred about the reporter from the lecture?",0,0,1,g2t18
+"From the video, what can be inferred about the pilot from the interview?",0,0,1,g2t18
+What can be inferred about the farmer from the show in the video?,0,0,1,g2t18
+What can be inferred about the main character from the match?,0,0,1,g2t18
+What can be inferred about the nurse from the documentary?,0,0,1,g2t18
+What can be inferred about the shopkeeper from the lecture in the video?,0,0,1,g2t18
+What can be inferred about the soldier from the match?,0,0,1,g2t18
+"In the video, what is the video trying to persuade viewers to do?",0,0,1,g2t19
+What is the broadcast trying to persuade viewers to do?,0,0,1,g2t19
+What is the documentary trying to persuade viewers to do?,0,0,1,g2t19
+What is the interview trying to persuade viewers to do?,0,0,1,g2t19
+What is the lecture trying to persuade viewers to do?,0,0,1,g2t19
+What is the movie trying to persuade viewers to do?,0,0,1,g2t19
+What is the tutorial trying to persuade viewers to do?,0,0,1,g2t19
+What is the video trying to persuade viewers to do?,0,0,1,g2t19
+"According to the video, what is the main idea of the vlog?",0,0,1,g2t2
+What is the main idea of the episode?,0,0,1,g2t2
+What is the main idea of the lesson?,0,0,1,g2t2
+What is the main idea of the news report?,0,0,1,g2t2
+What is the main idea of the performance?,0,0,1,g2t2
+What is the main idea of the presentation in the video?,0,0,1,g2t2
+What is the main idea of the show?,0,0,1,g2t2
+What is the main idea of the vlog in the video?,0,0,1,g2t2
+"Based on the video, who is the intended audience of the film?",0,0,1,g2t20
+"In this video, who is the intended audience of the episode?",0,0,1,g2t20
+Who is the intended audience of the match in the video?,0,0,1,g2t20
+Who is the intended audience of the movie?,0,0,1,g2t20
+Who is the intended audience of the news report?,0,0,1,g2t20
+Who is the intended audience of the performance?,0,0,1,g2t20
+Who is the intended audience of the story?,0,0,1,g2t20
+Who is the intended audience of the vlog?,0,0,1,g2t20
+"According to the video, what is the main argument made in the performance?",0,0,1,g2t21
+"Based on the video, what is the main argument made in the lecture?",0,0,1,g2t21
+"In this video, what is the main argument made in the program?",0,0,1,g2t21
+What is the main argument made in the lesson?,0,0,1,g2t21
+What is the main argument made in the movie?,0,0,1,g2t21
+What is the main argument made in the performance?,0,0,1,g2t21
+What is the main argument made in the program?,0,0,1,g2t21
+What is the main argument made in the vlog in the video?,0,0,1,g2t21
+"According to the video, how does the mood of the video shift from beginning to end?",0,0,1,g2t22
+How does the mood of the documentary shift from beginning to end?,0,0,1,g2t22
+How does the mood of the episode shift from beginning to end?,0,0,1,g2t22
+How does the mood of the movie shift from beginning to end?,0,0,1,g2t22
+How does the mood of the presentation shift from beginning to end?,0,0,1,g2t22
+How does the mood of the video shift from beginning to end?,0,0,1,g2t22
+How does the mood of the vlog shift from beginning to end?,0,0,1,g2t22
+"In the video, how does the mood of the broadcast shift from beginning to end?",0,0,1,g2t22
+"According to the video, what is the overall tone of the talk?",0,0,1,g2t23
+"In the video, what is the overall tone of the news report?",0,0,1,g2t23
+What is the overall tone of the documentary?,0,0,1,g2t23
+What is the overall tone of the lecture?,0,0,1,g2t23
+What is the overall tone of the lesson?,0,0,1,g2t23
+What is the overall tone of the performance in the video?,0,0,1,g2t23
+What is the overall tone of the presentation?,0,0,1,g2t23
+What is the overall tone of the vlog?,0,0,1,g2t23
+"According to the video, what problem does the match discuss?",0,0,1,g2t24
+"In the video, what problem does the film discuss?",0,0,1,g2t24
+What problem does the broadcast discuss in the video?,0,0,1,g2t24
+What problem does the broadcast discuss?,0,0,1,g2t24
+What problem does the documentary discuss?,0,0,1,g2t24
+What problem does the film discuss?,0,0,1,g2t24
+What problem does the show discuss?,0,0,1,g2t24
+What problem does the video discuss?,0,0,1,g2t24
+"In this video, what does the news report suggest about family?",0,0,1,g2t25
+What does the episode suggest about climate change?,0,0,1,g2t25
+What does the episode suggest about the history of the city in the video?,0,0,1,g2t25
+What does the lecture suggest about friendship?,0,0,1,g2t25
+What does the show suggest about the economy?,0,0,1,g2t25
+What does the show suggest about the history of the city?,0,0,1,g2t25
+What does the story suggest about the economy in the video?,0,0,1,g2t25
+What does the talk suggest about the artist's career?,0,0,1,g2t25
+"According to the video, how does the shopkeeper feel about artificial intelligence overall?",0,0,1,g2t26
+"From the video, how does the guest feel about traditional culture overall?",0,0,1,g2t26
+How does the farmer feel about healthy eating overall?,0,0,1,g2t26
+How does the host feel about the economy overall?,0,0,1,g2t26
+How does the mechanic feel about family overall?,0,0,1,g2t26
+How does the student feel about family overall?,0,0,1,g2t26
+"In the video, how does the pilot feel about family overall?",0,0,1,g2t26
+"In this video, how does the young woman feel about online privacy overall?",0,0,1,g2t26
+"In this video, what is the performance's view on space exploration?",0,0,1,g2t27
+What is the documentary's view on online privacy?,0,0,1,g2t27
+What is the film's view on traditional culture?,0,0,1,g2t27
+What is the lecture's view on space exploration?,0,0,1,g2t27
+What is the lesson's view on climate change?,0,0,1,g2t27
+What is the presentation's view on ancient history?,0,0,1,g2t27
+What is the presentation's view on artificial intelligence?,0,0,1,g2t27
+What is the tutorial's view on teamwork?,0,0,1,g2t27
+"In this video, which of the following topics is discussed in the talk?",0,0,1,g2t28
+"In this video, which of the following topics is discussed in the vlog?",0,0,1,g2t28
+Which of the following topics is discussed in the documentary?,0,0,1,g2t28
+Which of the following topics is discussed in the interview?,0,0,1,g2t28
+Which of the following topics is discussed in the match?,0,0,1,g2t28
+Which of the following topics is discussed in the performance?,0,0,1,g2t28
+Which of the following topics is discussed in the show?,0,0,1,g2t28
+Which of the following topics is discussed in the tutorial?,0,0,1,g2t28
+"According to the video, what is the best title for this performance?",0,0,1,g2t29
+"Based on the video, what is the best title for this talk?",0,0,1,g2t29
+What is the best title for this broadcast?,0,0,1,g2t29
+What is the best title for this interview?,0,0,1,g2t29
+What is the best title for this lesson?,0,0,1,g2t29
+What is the best title for this news report?,0,0,1,g2t29
+What is the best title for this performance?,0,0,1,g2t29
+What is the best title for this story?,0,0,1,g2t29
+"Based on the video, what is the purpose of this news report?",0,0,1,g2t3
+"Based on the video, what is the purpose of this story?",0,0,1,g2t3
+What is the purpose of this episode?,0,0,1,g2t3
+What is the purpose of this film?,0,0,1,g2t3
+What is the purpose of this lecture?,0,0,1,g2t3
+What is the purpose of this lesson?,0,0,1,g2t3
+What is the purpose of this show in the video?,0,0,1,g2t3
+What is the purpose of this show?,0,0,1,g2t3
+"According to the video, what type of episode is this?",0,0,1,g2t30
+"Based on the video, what type of video is this?",0,0,1,g2t30
+"In this video, what type of film is this?",0,0,1,g2t30
+"In this video, what type of program is this?",0,0,1,g2t30
+"In this video, what type of vlog is this?",0,0,1,g2t30
+What type of movie is this?,0,0,1,g2t30
+What type of news report is this?,0,0,1,g2t30
+What type of tutorial is this?,0,0,1,g2t30
+"In the video, where does the lecture mostly take place?",0,0,1,g2t31
+Where does the documentary mostly take place?,0,0,1,g2t31
+Where does the lesson mostly take place?,0,0,1,g2t31
+Where does the match mostly take place?,0,0,1,g2t31
+Where does the presentation mostly take place?,0,0,1,g2t31
+Where does the talk mostly take place?,0,0,1,g2t31
+Where does the tutorial mostly take place?,0,0,1,g2t31
+Where does the video mostly take place?,0,0,1,g2t31
+How does the broadcast compare the two products?,0,0,1,g2t32
+How does the presentation compare the two cities?,0,0,1,g2t32
+How does the presentation compare the two methods in the video?,0,0,1,g2t32
+How does the story compare past and present?,0,0,1,g2t32
+How does the story compare the two cities?,0,0,1,g2t32
+How does the video compare the two approaches?,0,0,1,g2t32
+How does the vlog compare the two approaches?,0,0,1,g2t32
+"In the video, how does the lesson compare past and present?",0,0,1,g2t32
+"According to the video, what is the main difference between the two approaches presented in the show?",0,0,1,g2t33
+"According to the video, what is the main difference between the two cities presented in the movie?",0,0,1,g2t33
+"From the video, what is the main difference between the two cities presented in the presentation?",0,0,1,g2t33
+What is the main difference between past and present presented in the movie?,0,0,1,g2t33
+What is the main difference between past and present presented in the show?,0,0,1,g2t33
+What is the main difference between the two approaches presented in the broadcast?,0,0,1,g2t33
+What is the main difference between the two characters presented in the episode?,0,0,1,g2t33
+What is the main difference between the two cities presented in the show?,0,0,1,g2t33
+"In this video, what do the scenes in the performance have in common?",0,0,1,g2t34
+What do the scenes in the broadcast have in common?,0,0,1,g2t34
+What do the scenes in the interview have in common?,0,0,1,g2t34
+What do the scenes in the lecture have in common?,0,0,1,g2t34
+What do the scenes in the match have in common?,0,0,1,g2t34
+What do the scenes in the news report have in common?,0,0,1,g2t34
+What do the scenes in the video have in common?,0,0,1,g2t34
+What do the scenes in the vlog have in common?,0,0,1,g2t34
+"According to the video, what is the narrator's main point?",0,0,1,g2t35
+"From the video, what is the narrator's main point?",0,0,1,g2t35
+"In the video, what is the narrator's main point?",0,0,1,g2t35
+What is the narrator's main point in the video?,0,0,1,g2t35
+What is the narrator's main point?,0,0,1,g2t35
+"According to the video, what does the shopkeeper conclude at the end of the talk?",0,0,1,g2t36
+"According to the video, what does the speaker conclude at the end of the talk?",0,0,1,g2t36
+What does the climber conclude at the end of the talk?,0,0,1,g2t36
+What does the main character conclude at the end of the talk?,0,0,1,g2t36
+What does the pianist conclude at the end of the talk?,0,0,1,g2t36
+What does the presenter conclude at the end of the talk?,0,0,1,g2t36
+What does the shopkeeper conclude at the end of the talk?,0,0,1,g2t36
+What does the singer conclude at the end of the talk?,0,0,1,g2t36
+"In the video, summarize what the film is about.",0,0,1,g2t37
+"In the video, summarize what the presentation is about.",0,0,1,g2t37
+Summarize what the interview is about.,0,0,1,g2t37
+Summarize what the match is about.,0,0,1,g2t37
+Summarize what the news report is about.,0,0,1,g2t37
+Summarize what the performance is about.,0,0,1,g2t37
+Summarize what the talk is about.,0,0,1,g2t37
+Summarize what the vlog is about.,0,0,1,g2t37
+"From the video, what is the overarching story of the match?",0,0,1,g2t38
+"In the video, what is the overarching story of the performance?",0,0,1,g2t38
+What is the overarching story of the lecture?,0,0,1,g2t38
+What is the overarching story of the match in the video?,0,0,1,g2t38
+What is the overarching story of the match?,0,0,1,g2t38
+What is the overarching story of the performance?,0,0,1,g2t38
+What is the overarching story of the show?,0,0,1,g2t38
+What is the overarching story of the talk?,0,0,1,g2t38
+How does the plot unfold in the video?,0,0,1,g2t39
+How does the plot unfold?,0,0,1,g2t39
+"In this video, how does the plot unfold?",0,0,1,g2t39
+"From the video, what genre does this program belong to?",0,0,1,g2t4
+"From the video, what genre does this tutorial belong to?",0,0,1,g2t4
+"In this video, what genre does this lesson belong to?",0,0,1,g2t4
+What genre does this episode belong to?,0,0,1,g2t4
+What genre does this movie belong to?,0,0,1,g2t4
+What genre does this presentation belong to?,0,0,1,g2t4
+What genre does this show belong to?,0,0,1,g2t4
+What genre does this vlog belong to?,0,0,1,g2t4
+"Based on the video, what is the moral of the story?",0,0,1,g2t40
+"From the video, what is the moral of the story?",0,0,1,g2t40
+"In the video, what is the moral of the story?",0,0,1,g2t40
+"In this video, what is the moral of the story?",0,0,1,g2t40
+What is the moral of the story in the video?,0,0,1,g2t40
+What is the moral of the story?,0,0,1,g2t40
+What is the significance of the backpack in the broadcast?,0,0,1,g2t41
+What is the significance of the chair in the match?,0,0,1,g2t41
+What is the significance of the guitar in the video?,0,0,1,g2t41
+What is the significance of the poster in the performance?,0,0,1,g2t41
+What is the significance of the robot in the film?,0,0,1,g2t41
+What is the significance of the robot in the performance in the video?,0,0,1,g2t41
+What is the significance of the suitcase in the film?,0,0,1,g2t41
+What is the significance of the vase in the movie?,0,0,1,g2t41
+"In this video, what is the mechanic's attitude toward healthy eating?",0,0,1,g2t42
+What is the chef's attitude toward renewable energy?,0,0,1,g2t42
+What is the main character's attitude toward family?,0,0,1,g2t42
+What is the main character's attitude toward the history of the city in the video?,0,0,1,g2t42
+What is the pianist's attitude toward renewable energy?,0,0,1,g2t42
+What is the teacher's attitude toward renewable energy in the video?,0,0,1,g2t42
+What is the vlogger's attitude toward education?,0,0,1,g2t42
+What is the woman's attitude toward friendship?,0,0,1,g2t42
+In what order are the topics presented in the broadcast?,0,0,1,g2t43
+In what order are the topics presented in the documentary?,0,0,1,g2t43
+In what order are the topics presented in the lecture?,0,0,1,g2t43
+In what order are the topics presented in the lesson?,0,0,1,g2t43
+In what order are the topics presented in the news report?,0,0,1,g2t43
+In what order are the topics presented in the show?,0,0,1,g2t43
+In what order are the topics presented in the talk?,0,0,1,g2t43
+In what order are the topics presented in the tutorial in the video?,0,0,1,g2t43
+"From the video, what is the final outcome of the project?",0,0,1,g2t44
+"In the video, what is the final outcome of the training program?",0,0,1,g2t44
+What is the final outcome of the competition?,0,0,1,g2t44
+What is the final outcome of the construction?,0,0,1,g2t44
+What is the final outcome of the investigation in the video?,0,0,1,g2t44
+What is the final outcome of the investigation?,0,0,1,g2t44
+What is the final outcome of the race?,0,0,1,g2t44
+What is the final outcome of the training program?,0,0,1,g2t44
+"Based on the video, how does the woman change as a character over the movie?",0,0,1,g2t45
+"From the video, how does the teacher change as a character over the lesson?",0,0,1,g2t45
+How does the artist change as a character over the presentation?,0,0,1,g2t45
+How does the chef change as a character over the broadcast?,0,0,1,g2t45
+How does the guest change as a character over the vlog?,0,0,1,g2t45
+How does the teacher change as a character over the lesson?,0,0,1,g2t45
+"In the video, how does the pianist change as a character over the film?",0,0,1,g2t45
+"In this video, how does the teacher change as a character over the tutorial?",0,0,1,g2t45
+"According to the video, which of the following is true?",0,0,1,g2t46
+"From the video, which of the following is true?",0,0,1,g2t46
+"In the video, which of the following is true?",0,0,1,g2t46
+"In this video, which of the following is true?",0,0,1,g2t46
+Which of the following is true in the video?,0,0,1,g2t46
+Which of the following is true?,0,0,1,g2t46
+"In this video, what can be concluded from the talk?",0,0,1,g2t47
+What can be concluded from the broadcast in the video?,0,0,1,g2t47
+What can be concluded from the broadcast?,0,0,1,g2t47
+What can be concluded from the documentary?,0,0,1,g2t47
+What can be concluded from the episode?,0,0,1,g2t47
+What can be concluded from the movie?,0,0,1,g2t47
+What can be concluded from the presentation?,0,0,1,g2t47
+What can be concluded from the story?,0,0,1,g2t47
+"Based on the video, what is the performance's main message about family?",0,0,1,g2t48
+"In the video, what is the vlog's main message about education?",0,0,1,g2t48
+What is the episode's main message about renewable energy?,0,0,1,g2t48
+What is the episode's main message about the team's season?,0,0,1,g2t48
+What is the lesson's main message about climate change?,0,0,1,g2t48
+What is the performance's main message about ancient history?,0,0,1,g2t48
+What is the performance's main message about family?,0,0,1,g2t48
+What is the video's main message about city life?,0,0,1,g2t48
+"According to the video, why did the creator make this episode?",0,0,1,g2t49
+"According to the video, why did the creator make this interview?",0,0,1,g2t49
+"Based on the video, why did the creator make this program?",0,0,1,g2t49
+"In this video, why did the creator make this presentation?",0,0,1,g2t49
+Why did the creator make this documentary?,0,0,1,g2t49
+Why did the creator make this episode?,0,0,1,g2t49
+Why did the creator make this match?,0,0,1,g2t49
+Why did the creator make this tutorial?,0,0,1,g2t49
+"From the video, what is the overall message of the film?",0,0,1,g2t5
+What is the overall message of the broadcast?,0,0,1,g2t5
+What is the overall message of the film?,0,0,1,g2t5
+What is the overall message of the match?,0,0,1,g2t5
+What is the overall message of the performance?,0,0,1,g2t5
+What is the overall message of the show?,0,0,1,g2t5
+What is the overall message of the tutorial?,0,0,1,g2t5
+What is the overall message of the vlog?,0,0,1,g2t5
+"According to the video, what is the interviewer's main goal throughout the vlog?",0,0,1,g2t50
+"Based on the video, what is the speaker's main goal throughout the vlog?",0,0,1,g2t50
+"In the video, what is the girl's main goal throughout the vlog?",0,0,1,g2t50
+"In the video, what is the shopkeeper's main goal throughout the presentation?",0,0,1,g2t50
+What is the dancer's main goal throughout the tutorial in the video?,0,0,1,g2t50
+What is the mechanic's main goal throughout the episode?,0,0,1,g2t50
+What is the referee's main goal throughout the movie in the video?,0,0,1,g2t50
+What is the referee's main goal throughout the program?,0,0,1,g2t50
+Which of the following best summarizes the documentary?,0,0,1,g2t6
+Which of the following best summarizes the episode?,0,0,1,g2t6
+Which of the following best summarizes the news report?,0,0,1,g2t6
+Which of the following best summarizes the presentation?,0,0,1,g2t6
+Which of the following best summarizes the program?,0,0,1,g2t6
+Which of the following best summarizes the story?,0,0,1,g2t6
+Which of the following best summarizes the tutorial?,0,0,1,g2t6
+Which of the following best summarizes the vlog?,0,0,1,g2t6
+"According to the video, what is the central theme of the match?",0,0,1,g2t7
+"From the video, what is the central theme of the program?",0,0,1,g2t7
+What is the central theme of the film?,0,0,1,g2t7
+What is the central theme of the lecture?,0,0,1,g2t7
+What is the central theme of the match?,0,0,1,g2t7
+What is the central theme of the movie?,0,0,1,g2t7
+What is the central theme of the performance?,0,0,1,g2t7
+What is the central theme of the presentation?,0,0,1,g2t7
+"According to the video, what lesson does the tutorial teach?",0,0,1,g2t8
+"Based on the video, what lesson does the match teach?",0,0,1,g2t8
+What lesson does the broadcast teach?,0,0,1,g2t8
+What lesson does the documentary teach in the video?,0,0,1,g2t8
+What lesson does the performance teach?,0,0,1,g2t8
+What lesson does the talk teach?,0,0,1,g2t8
+What lesson does the tutorial teach?,0,0,1,g2t8
+What lesson does the video teach?,0,0,1,g2t8
+"Based on the video, what conclusion does the child reach by the end?",0,0,1,g2t9
+"From the video, what conclusion does the old man reach by the end?",0,0,1,g2t9
+What conclusion does the boy reach by the end?,0,0,1,g2t9
+What conclusion does the child reach by the end?,0,0,1,g2t9
+What conclusion does the host reach by the end?,0,0,1,g2t9
+What conclusion does the student reach by the end?,0,0,1,g2t9
+What conclusion does the waiter reach by the end?,0,0,1,g2t9
+What conclusion does the young woman reach by the end?,0,0,1,g2t9
+What color is the bag that the woman carries out?,1,1,0,g3t0
+What color is the balloon that pops?,1,1,0,g3t0
+What color is the bird that flies out of the cage?,1,1,0,g3t0
+What color is the car that crashes into the wall?,1,1,0,g3t0
+What color is the dog that chases the ball?,1,1,0,g3t0
+What color is the kite that the girl flies?,1,1,0,g3t0
+"From the video, what is written on the trophy that the captain lifts?",1,1,0,g3t1
+What is written on the box that the man picks up?,1,1,0,g3t1
+What is written on the ladder that the worker climbs in the video?,1,1,0,g3t1
+What is written on the ladder that the worker climbs?,1,1,0,g3t1
+What is written on the plate that the waiter drops?,1,1,0,g3t1
+What is written on the truck that drives past the camera?,1,1,0,g3t1
+"According to the video, which object does the dancer pick up after the bell rings?",1,1,0,g3t10
+Which object does the cat pick up after the crowd cheers?,1,1,0,g3t10
+Which object does the chef pick up after the car crashes?,1,1,0,g3t10
+Which object does the old man pick up after the curtain rises?,1,1,0,g3t10
+Which object does the pilot pick up after the race begins in the video?,1,1,0,g3t10
+Which object does the reporter pick up after the power goes out in the video?,1,1,0,g3t10
+What item does the climber take out of the suitcase in the video?,1,1,0,g3t11
+What item does the man take out of the suitcase?,1,1,0,g3t11
+What item does the presenter take out of the pocket?,1,1,0,g3t11
+What item does the reporter take out of the box?,1,1,0,g3t11
+What item does the singer take out of the bag?,1,1,0,g3t11
+What item does the singer take out of the drawer?,1,1,0,g3t11
+"Based on the video, what is written on the sign that the child walks past?",1,1,0,g3t12
+"Based on the video, what is written on the sign that the shopkeeper walks past?",1,1,0,g3t12
+What is written on the sign that the child walks past?,1,1,0,g3t12
+What is written on the sign that the host walks past?,1,1,0,g3t12
+What is written on the sign that the teacher walks past?,1,1,0,g3t12
+What is written on the sign that the young woman walks past?,1,1,0,g3t12
+"From the video, what color is the hat that the referee puts on?",1,1,0,g3t13
+"From the video, what color is the skirt that the chef puts on?",1,1,0,g3t13
+What color is the apron that the woman puts on?,1,1,0,g3t13
+What color is the coat that the soldier puts on?,1,1,0,g3t13
+What color is the hoodie that the old man puts on?,1,1,0,g3t13
+What color is the scarf that the old man puts on?,1,1,0,g3t13
+"In this video, where does the coach put the umbrella after the referee blows the whistle?",1,1,0,g3t14
+"In this video, where does the nurse put the car after the song ends?",1,1,0,g3t14
+Where does the climber put the vase after the phone rings?,1,1,0,g3t14
+Where does the player put the umbrella after the host introduces the guest?,1,1,0,g3t14
+Where does the student put the bag after the game starts?,1,1,0,g3t14
+Where does the waiter put the microphone after the alarm rings?,1,1,0,g3t14
+"In the video, what appears on the screen right after the referee blows the whistle?",1,1,0,g3t15
+"In this video, what appears on the screen right after the guest arrives?",1,1,0,g3t15
+What appears on the screen right after the lights go out?,1,1,0,g3t15
+What appears on the screen right after the phone rings in the video?,1,1,0,g3t15
+What appears on the screen right after the referee blows the whistle?,1,1,0,g3t15
+What appears on the screen right after the whistle blows?,1,1,0,g3t15
+"According to the video, what is the score on the scoreboard after the race?",1,1,0,g3t16
+What is the score on the scoreboard after the ceremony in the video?,1,1,0,g3t16
+What is the score on the scoreboard after the first round?,1,1,0,g3t16
+What is the score on the scoreboard after the race in the video?,1,1,0,g3t16
+What is the score on the scoreboard after the race?,1,1,0,g3t16
+What is the score on the scoreboard after the second goal?,1,1,0,g3t16
+"Based on the video, what is the person who points at the screen wearing?",1,1,0,g3t17
+What is the person who cuts the vegetables wearing?,1,1,0,g3t17
+What is the person who drops the cup wearing?,1,1,0,g3t17
+What is the person who gets into the car wearing?,1,1,0,g3t17
+What is the person who jumps over the fence wearing?,1,1,0,g3t17
+What is the person who scores a goal wearing in the video?,1,1,0,g3t17
+"In the video, what does the magician pick up?",1,1,0,g3t18
+"In the video, what does the shopkeeper pick up?",1,1,0,g3t18
+"In this video, what does the student pick up?",1,1,0,g3t18
+What does the fox pick up in the video?,1,1,0,g3t18
+What does the horse pick up?,1,1,0,g3t18
+What does the waiter pick up?,1,1,0,g3t18
+"In the video, what does the magician grab before the phone rings?",1,1,0,g3t19
+What does the dancer grab before the train arrives?,1,1,0,g3t19
+What does the doctor grab before the race begins?,1,1,0,g3t19
+What does the driver grab before the power goes out?,1,1,0,g3t19
+What does the host grab before the alarm rings?,1,1,0,g3t19
+What does the student grab before the train arrives?,1,1,0,g3t19
+"From the video, what does the trophy that the captain lifts look like?",1,1,0,g3t2
+What does the bike that the boy rides away on look like?,1,1,0,g3t2
+What does the bird that flies out of the cage look like?,1,1,0,g3t2
+What does the boat that sinks look like?,1,1,0,g3t2
+What does the book that the teacher holds up look like?,1,1,0,g3t2
+What does the box that the man picks up look like?,1,1,0,g3t2
+"Based on the video, which guitar does the man choose?",1,1,0,g3t20
+"In this video, which car does the player choose?",1,1,0,g3t20
+Which book does the chef choose in the video?,1,1,0,g3t20
+Which drone does the climber choose?,1,1,0,g3t20
+Which phone does the main character choose?,1,1,0,g3t20
+Which umbrella does the referee choose?,1,1,0,g3t20
+"In this video, what brand is the ladder that the worker climbs?",1,1,0,g3t3
+What brand is the balloon that pops?,1,1,0,g3t3
+What brand is the bike that the boy rides away on?,1,1,0,g3t3
+What brand is the bottle that the boy throws?,1,1,0,g3t3
+What brand is the box that the man picks up?,1,1,0,g3t3
+What brand is the vase that falls off the shelf?,1,1,0,g3t3
+"From the video, what is the soldier wearing when the speech ends?",1,1,0,g3t4
+"In this video, what is the shopkeeper wearing when the referee blows the whistle?",1,1,0,g3t4
+What is the man wearing when the whistle blows?,1,1,0,g3t4
+What is the mechanic wearing when the host introduces the guest in the video?,1,1,0,g3t4
+What is the mechanic wearing when the rain starts?,1,1,0,g3t4
+What is the scientist wearing when the train arrives?,1,1,0,g3t4
+What color is the bottle when the teacher enters?,1,1,0,g3t5
+What color is the camera when the host introduces the guest?,1,1,0,g3t5
+What color is the cup when the curtain rises?,1,1,0,g3t5
+What color is the phone when the song ends?,1,1,0,g3t5
+What color is the truck when the game starts?,1,1,0,g3t5
+What color is the vase when the rain starts?,1,1,0,g3t5
+"According to the video, what is the magician holding when the alarm rings?",1,1,0,g3t6
+What is the doctor holding when the game starts?,1,1,0,g3t6
+What is the farmer holding when the phone rings?,1,1,0,g3t6
+What is the player holding when the bell rings?,1,1,0,g3t6
+What is the reporter holding when the rain starts in the video?,1,1,0,g3t6
+What is the scientist holding when the lights go out?,1,1,0,g3t6
+"Based on the video, what is displayed on the screen when the power goes out?",1,1,0,g3t7
+"In the video, what is displayed on the screen when the curtain rises?",1,1,0,g3t7
+What is displayed on the screen when the balloon pops?,1,1,0,g3t7
+What is displayed on the screen when the crowd cheers?,1,1,0,g3t7
+What is displayed on the screen when the guest arrives?,1,1,0,g3t7
+What is displayed on the screen when the speech ends?,1,1,0,g3t7
+"According to the video, what number is on the jersey of the player who commits the foul?",1,1,0,g3t8
+What number is on the jersey of the player who catches the pass?,1,1,0,g3t8
+What number is on the jersey of the player who commits the foul?,1,1,0,g3t8
+What number is on the jersey of the player who gets the red card?,1,1,0,g3t8
+What number is on the jersey of the player who takes the penalty?,1,1,0,g3t8
+What number is on the jersey of the player who wins the race?,1,1,0,g3t8
+"In the video, what is the expression on the climber's face after the speech ends?",1,1,0,g3t9
+What is the expression on the chef's face after the dog barks?,1,1,0,g3t9
+What is the expression on the doctor's face after the train arrives?,1,1,0,g3t9
+What is the expression on the old man's face after the door opens?,1,1,0,g3t9
+What is the expression on the player's face after the camera zooms in?,1,1,0,g3t9
+What is the expression on the player's face after the curtain rises?,1,1,0,g3t9
+"From the video, how many times does the waiter pass the ball?",0,1,1,g4t0
+How many times does the climber cross the finish line?,0,1,1,g4t0
+How many times does the dancer enter the room?,0,1,1,g4t0
+How many times does the goalkeeper write on the board?,0,1,1,g4t0
+How many times does the guest wave?,0,1,1,g4t0
+"In this video, how many times does the player sing?",0,1,1,g4t0
+"Based on the video, how many times does the pianist write on the board in the video?",0,1,1,g4t1
+How many times does the athlete write on the board in the video?,0,1,1,g4t1
+How many times does the child pass the ball in the video?,0,1,1,g4t1
+How many times does the teacher cross the finish line in the video?,0,1,1,g4t1
+How many times does the teacher smile in the video?,0,1,1,g4t1
+How many times does the vlogger enter the room in the video?,0,1,1,g4t1
+Which action is repeated most often in the broadcast?,0,1,1,g4t10
+Which action is repeated most often in the match?,0,1,1,g4t10
+Which action is repeated most often in the performance?,0,1,1,g4t10
+Which action is repeated most often in the presentation?,0,1,1,g4t10
+Which action is repeated most often in the program?,0,1,1,g4t10
+Which action is repeated most often in the story in the video?,0,1,1,g4t10
+"According to the video, how often does the farmer pick up the box?",0,1,1,g4t11
+"From the video, how often does the girl fall?",0,1,1,g4t11
+How often does the boy check the phone?,0,1,1,g4t11
+How often does the goalkeeper throw the ball?,0,1,1,g4t11
+How often does the old man dance?,0,1,1,g4t11
+How often does the referee raise a hand in the video?,0,1,1,g4t11
+"Based on the video, what events lead up to the final goal?",0,1,1,g4t12
+"In the video, what events lead up to the team's victory?",0,1,1,g4t12
+What events lead up to the argument at the end?,0,1,1,g4t12
+What events lead up to the ending in the video?,0,1,1,g4t12
+What events lead up to the explosion at the end?,0,1,1,g4t12
+What events lead up to the final scene?,0,1,1,g4t12
+How does the construction progress from start to finish?,0,1,1,g4t13
+How does the investigation progress from start to finish?,0,1,1,g4t13
+How does the project progress from start to finish?,0,1,1,g4t13
+How does the race progress from start to finish?,0,1,1,g4t13
+How does the recipe progress from start to finish?,0,1,1,g4t13
+How does the repair progress from start to finish?,0,1,1,g4t13
+"Based on the video, what are the main stages of the journey?",0,1,1,g4t14
+"In the video, what are the main stages of the training program?",0,1,1,g4t14
+What are the main stages of the construction?,0,1,1,g4t14
+What are the main stages of the journey?,0,1,1,g4t14
+What are the main stages of the renovation?,0,1,1,g4t14
+What are the main stages of the training program?,0,1,1,g4t14
+How does the climber's driving change over the performance in the video?,0,1,1,g4t15
+How does the dancer's pace change over the lesson?,0,1,1,g4t15
+How does the doctor's fighting style change over the lecture?,0,1,1,g4t15
+How does the mechanic's playing style change over the vlog?,0,1,1,g4t15
+How does the reporter's fighting style change over the broadcast in the video?,0,1,1,g4t15
+How does the woman's strategy on the field change over the show?,0,1,1,g4t15
+What happens in the first and last scenes of the broadcast?,0,1,1,g4t16
+What happens in the first and last scenes of the lecture?,0,1,1,g4t16
+What happens in the first and last scenes of the match?,0,1,1,g4t16
+What happens in the first and last scenes of the movie?,0,1,1,g4t16
+What happens in the first and last scenes of the tutorial?,0,1,1,g4t16
+What happens in the first and last scenes of the vlog?,0,1,1,g4t16
+"According to the video, which of the following events happens last in the lecture?",0,1,1,g4t17
+"In the video, which of the following events happens last in the movie?",0,1,1,g4t17
+Which of the following events happens last in the movie?,0,1,1,g4t17
+Which of the following events happens last in the news report?,0,1,1,g4t17
+Which of the following events happens last in the tutorial?,0,1,1,g4t17
+Which of the following events happens last in the vlog?,0,1,1,g4t17
+"Based on the video, what does the student do each time the train arrives?",0,1,1,g4t18
+What does the goalkeeper do each time the lights go out?,0,1,1,g4t18
+What does the main character do each time the teacher enters?,0,1,1,g4t18
+What does the old man do each time the alarm rings?,0,1,1,g4t18
+What does the teacher do each time the balloon pops?,0,1,1,g4t18
+What does the waiter do each time the alarm rings?,0,1,1,g4t18
+"According to the video, how many times is the bell heard?",0,1,1,g4t19
+"From the video, how many times is the alarm heard?",0,1,1,g4t19
+How many times is a dog barking heard?,0,1,1,g4t19
+How many times is the alarm heard?,0,1,1,g4t19
+How many times is the horn heard?,0,1,1,g4t19
+How many times is the whistle heard?,0,1,1,g4t19
+"Based on the video, how many dishes are there in the program?",0,1,1,g4t2
+How many attempts are there in the film?,0,1,1,g4t2
+How many explosions are there in the match?,0,1,1,g4t2
+How many penalties are there in the performance?,0,1,1,g4t2
+How many questions are there in the interview?,0,1,1,g4t2
+How many songs are there in the vlog?,0,1,1,g4t2
+When does the boy drop the cup for the second time?,0,1,1,g4t20
+When does the chef kick the ball for the second time?,0,1,1,g4t20
+When does the mechanic pick up the box for the second time?,0,1,1,g4t20
+When does the nurse answer the phone for the second time?,0,1,1,g4t20
+When does the police officer turn around for the second time?,0,1,1,g4t20
+When does the soldier sing for the second time?,0,1,1,g4t20
+"Based on the video, what steps does the child follow in the lecture?",0,1,1,g4t21
+"In this video, what steps does the magician follow in the presentation?",0,1,1,g4t21
+"In this video, what steps does the shopkeeper follow in the video?",0,1,1,g4t21
+What steps does the pianist follow in the broadcast?,0,1,1,g4t21
+What steps does the police officer follow in the interview?,0,1,1,g4t21
+What steps does the shopkeeper follow in the broadcast?,0,1,1,g4t21
+How do the driver's actions in the first half compare with the second half?,0,1,1,g4t22
+How do the goalkeeper's actions in the first half compare with the second half?,0,1,1,g4t22
+How do the man's actions in the first half compare with the second half in the video?,0,1,1,g4t22
+How do the player's actions in the first half compare with the second half?,0,1,1,g4t22
+How do the student's actions in the first half compare with the second half?,0,1,1,g4t22
+"In this video, how do the teacher's actions in the first half compare with the second half?",0,1,1,g4t22
+How many costume changes happen throughout the match?,0,1,1,g4t3
+How many fouls happen throughout the movie?,0,1,1,g4t3
+How many fouls happen throughout the tutorial?,0,1,1,g4t3
+How many interviews happen throughout the vlog?,0,1,1,g4t3
+How many jumps happen throughout the talk?,0,1,1,g4t3
+How many location changes happen throughout the film?,0,1,1,g4t3
+"Based on the video, what is the total number of questions in the lesson?",0,1,1,g4t4
+What is the total number of costume changes in the lesson?,0,1,1,g4t4
+What is the total number of dishes in the video?,0,1,1,g4t4
+What is the total number of interviews in the episode?,0,1,1,g4t4
+What is the total number of interviews in the film?,0,1,1,g4t4
+What is the total number of songs in the performance?,0,1,1,g4t4
+"According to the video, in what order do the events happen?",0,1,1,g4t5
+"From the video, in what order do the events happen?",0,1,1,g4t5
+In what order do the events happen in the video?,0,1,1,g4t5
+In what order do the events happen?,0,1,1,g4t5
+"In the video, which happens first: the dog barks or the door opens?",0,1,1,g4t6
+Which happens first: the camera zooms in or the whistle blows?,0,1,1,g4t6
+Which happens first: the fireworks start or the race begins?,0,1,1,g4t6
+Which happens first: the power goes out or the curtain rises in the video?,0,1,1,g4t6
+Which happens first: the rain starts or the referee blows the whistle?,0,1,1,g4t6
+Which happens first: the timer goes off or the door opens?,0,1,1,g4t6
+"In the video, what is the sequence of the man's actions in the documentary?",0,1,1,g4t7
+"In this video, what is the sequence of the dancer's actions in the show?",0,1,1,g4t7
+What is the sequence of the child's actions in the lesson?,0,1,1,g4t7
+What is the sequence of the child's actions in the news report?,0,1,1,g4t7
+What is the sequence of the farmer's actions in the show?,0,1,1,g4t7
+What is the sequence of the nurse's actions in the interview?,0,1,1,g4t7
+How does the chef's fighting style change from the first attempt to the last?,0,1,1,g4t8
+How does the guest's movements change from the first attempt to the last?,0,1,1,g4t8
+How does the guest's strategy on the field change from the first attempt to the last?,0,1,1,g4t8
+How does the interviewer's movements change from the first attempt to the last?,0,1,1,g4t8
+How does the old man's driving change from the first attempt to the last?,0,1,1,g4t8
+How does the scientist's technique change from the first attempt to the last?,0,1,1,g4t8
+What does the boy do repeatedly throughout the story?,0,1,1,g4t9
+What does the host do repeatedly throughout the vlog?,0,1,1,g4t9
+What does the nurse do repeatedly throughout the news report?,0,1,1,g4t9
+What does the pianist do repeatedly throughout the vlog?,0,1,1,g4t9
+What does the player do repeatedly throughout the vlog?,0,1,1,g4t9
+What does the woman do repeatedly throughout the episode?,0,1,1,g4t9
+"Based on the video, how many different chairs appear in the match?",1,0,1,g5t0
+How many different balloons appear in the vlog?,1,0,1,g5t0
+How many different cups appear in the program?,1,0,1,g5t0
+How many different cups appear in the video?,1,0,1,g5t0
+How many different students appear in the movie?,1,0,1,g5t0
+"In the video, how many different birds appear in the lecture?",1,0,1,g5t0
+Which color appears most often in the episode?,1,0,1,g5t1
+Which color appears most often in the lecture?,1,0,1,g5t1
+Which color appears most often in the news report?,1,0,1,g5t1
+Which color appears most often in the presentation?,1,0,1,g5t1
+Which color appears most often in the story?,1,0,1,g5t1
+Which color appears most often in the talk?,1,0,1,g5t1
+"In this video, which locations are shown in the broadcast?",1,0,1,g5t10
+Which locations are shown in the broadcast in the video?,1,0,1,g5t10
+Which locations are shown in the episode in the video?,1,0,1,g5t10
+Which locations are shown in the news report?,1,0,1,g5t10
+Which locations are shown in the show in the video?,1,0,1,g5t10
+Which locations are shown in the talk?,1,0,1,g5t10
+"In the video, what text appears repeatedly on the screen?",1,0,1,g5t11
+What text appears repeatedly on the screen in the video?,1,0,1,g5t11
+What text appears repeatedly on the screen?,1,0,1,g5t11
+"According to the video, how does the setting change visually from the first scene to the last?",1,0,1,g5t12
+"Based on the video, how does the setting change visually from the first scene to the last?",1,0,1,g5t12
+"From the video, how does the setting change visually from the first scene to the last?",1,0,1,g5t12
+How does the setting change visually from the first scene to the last?,1,0,1,g5t12
+"In the video, how does the setting change visually from the first scene to the last?",1,0,1,g5t12
+"In this video, how does the setting change visually from the first scene to the last?",1,0,1,g5t12
+"According to the video, which characters appear in every scene?",1,0,1,g5t13
+"In the video, which characters appear in every scene?",1,0,1,g5t13
+"In the video, what is the dominant color scheme of the story?",1,0,1,g5t14
+What is the dominant color scheme of the film?,1,0,1,g5t14
+What is the dominant color scheme of the lecture?,1,0,1,g5t14
+What is the dominant color scheme of the presentation?,1,0,1,g5t14
+What is the dominant color scheme of the story?,1,0,1,g5t14
+What is the dominant color scheme of the video?,1,0,1,g5t14
+Does the book appear more than once in the story?,1,0,1,g5t15
+Does the key appear more than once in the movie?,1,0,1,g5t15
+Does the lamp appear more than once in the film?,1,0,1,g5t15
+Does the laptop appear more than once in the match?,1,0,1,g5t15
+Does the map appear more than once in the talk?,1,0,1,g5t15
+Does the tent appear more than once in the presentation in the video?,1,0,1,g5t15
+How many boats are shown in total throughout the match?,1,0,1,g5t16
+How many cars are shown in total throughout the performance?,1,0,1,g5t16
+How many musicians are shown in total throughout the broadcast?,1,0,1,g5t16
+How many musicians are shown in total throughout the film?,1,0,1,g5t16
+How many people are shown in total throughout the movie?,1,0,1,g5t16
+How many trees are shown in total throughout the broadcast?,1,0,1,g5t16
+"According to the video, what animals can be seen in the talk?",1,0,1,g5t17
+"In the video, what animals can be seen in the video?",1,0,1,g5t17
+What animals can be seen in the lecture?,1,0,1,g5t17
+What animals can be seen in the performance?,1,0,1,g5t17
+What animals can be seen in the presentation?,1,0,1,g5t17
+What animals can be seen in the talk?,1,0,1,g5t17
+"From the video, which of the following brands is shown in the news report?",1,0,1,g5t18
+"In the video, which of the following brands is shown in the lecture?",1,0,1,g5t18
+Which of the following brands is shown in the documentary in the video?,1,0,1,g5t18
+Which of the following brands is shown in the episode?,1,0,1,g5t18
+Which of the following brands is shown in the match in the video?,1,0,1,g5t18
+Which of the following brands is shown in the presentation in the video?,1,0,1,g5t18
+"According to the video, what objects appear in both the first and last scenes?",1,0,1,g5t2
+"From the video, what objects appear in both the first and last scenes?",1,0,1,g5t2
+"In the video, what objects appear in both the first and last scenes?",1,0,1,g5t2
+"In this video, what objects appear in both the first and last scenes?",1,0,1,g5t2
+What objects appear in both the first and last scenes?,1,0,1,g5t2
+"According to the video, which logos are shown throughout the documentary?",1,0,1,g5t3
+"In this video, which logos are shown throughout the documentary?",1,0,1,g5t3
+Which logos are shown throughout the documentary?,1,0,1,g5t3
+Which logos are shown throughout the episode?,1,0,1,g5t3
+Which logos are shown throughout the lesson in the video?,1,0,1,g5t3
+Which logos are shown throughout the news report?,1,0,1,g5t3
+"According to the video, how does the speaker's appearance change throughout the movie?",1,0,1,g5t4
+How does the climber's appearance change throughout the performance?,1,0,1,g5t4
+How does the climber's appearance change throughout the presentation?,1,0,1,g5t4
+How does the girl's appearance change throughout the broadcast in the video?,1,0,1,g5t4
+How does the police officer's appearance change throughout the match?,1,0,1,g5t4
+"In this video, how does the waiter's appearance change throughout the movie?",1,0,1,g5t4
+"According to the video, what hats does the pilot wear over the course of the video?",1,0,1,g5t5
+"From the video, what outfits does the soldier wear over the course of the interview?",1,0,1,g5t5
+What jackets does the interviewer wear over the course of the lesson?,1,0,1,g5t5
+What jackets does the speaker wear over the course of the lesson?,1,0,1,g5t5
+What outfits does the artist wear over the course of the talk?,1,0,1,g5t5
+What outfits does the old man wear over the course of the talk?,1,0,1,g5t5
+"According to the video, which of the following objects appears in the movie?",1,0,1,g5t6
+Which of the following objects appears in the episode?,1,0,1,g5t6
+Which of the following objects appears in the interview?,1,0,1,g5t6
+Which of the following objects appears in the lecture?,1,0,1,g5t6
+Which of the following objects appears in the show?,1,0,1,g5t6
+Which of the following objects appears in the vlog?,1,0,1,g5t6
+Which of the following items is not shown in the lesson?,1,0,1,g5t7
+Which of the following items is not shown in the match?,1,0,1,g5t7
+Which of the following items is not shown in the program?,1,0,1,g5t7
+Which of the following items is not shown in the show?,1,0,1,g5t7
+Which of the following items is not shown in the talk in the video?,1,0,1,g5t7
+Which of the following items is not shown in the tutorial?,1,0,1,g5t7
+How many people appear in the match?,1,0,1,g5t8
+How many people appear in the news report?,1,0,1,g5t8
+How many people appear in the presentation?,1,0,1,g5t8
+How many people appear in the program?,1,0,1,g5t8
+How many people appear in the show?,1,0,1,g5t8
+How many people appear in the vlog?,1,0,1,g5t8
+"From the video, what is the most common painting color in the tutorial?",1,0,1,g5t9
+"From the video, what is the most common poster color in the vlog?",1,0,1,g5t9
+What is the most common guitar color in the performance?,1,0,1,g5t9
+What is the most common painting color in the interview?,1,0,1,g5t9
+What is the most common phone color in the presentation?,1,0,1,g5t9
+What is the most common truck color in the talk in the video?,1,0,1,g5t9
+"In the video, what is the nurse wearing each time the power goes out?",1,1,1,g6t0
+What is the chef wearing each time the crowd cheers?,1,1,1,g6t0
+What is the mechanic wearing each time the water boils?,1,1,1,g6t0
+What is the pianist wearing each time the ball hits the window?,1,1,1,g6t0
+What is the referee wearing each time the bus pulls away?,1,1,1,g6t0
+What is the young woman wearing each time the guest arrives?,1,1,1,g6t0
+"Based on the video, what color is the car involved in each crash?",1,1,1,g6t1
+"In this video, what color is the car involved in each crash?",1,1,1,g6t1
+What color is the car involved in each crash in the video?,1,1,1,g6t1
+What color is the car involved in each crash?,1,1,1,g6t1
+"Based on the video, which player in the purple jersey scores the most goals?",1,1,1,g6t2
+Which player in the blue jersey scores the most goals in the video?,1,1,1,g6t2
+Which player in the brown jersey scores the most goals?,1,1,1,g6t2
+Which player in the orange jersey scores the most goals in the video?,1,1,1,g6t2
+Which player in the orange jersey scores the most goals?,1,1,1,g6t2
+Which player in the purple jersey scores the most goals?,1,1,1,g6t2
+"In this video, what does the scoreboard show after each act?",1,1,1,g6t3
+What does the scoreboard show after each act?,1,1,1,g6t3
+What does the scoreboard show after each game in the video?,1,1,1,g6t3
+What does the scoreboard show after each lap?,1,1,1,g6t3
+What does the scoreboard show after each song?,1,1,1,g6t3
+What does the scoreboard show after each stage?,1,1,1,g6t3
+"From the video, how does the athlete's outfit look after each act?",1,1,1,g6t4
+How does the guest's outfit look after each act?,1,1,1,g6t4
+How does the magician's outfit look after each act?,1,1,1,g6t4
+How does the presenter's outfit look after each act?,1,1,1,g6t4
+How does the waiter's outfit look after each stage?,1,1,1,g6t4
+"In the video, how does the driver's outfit look after each act?",1,1,1,g6t4
+"Based on the video, what is written on the screen every time the ball hits the window?",1,1,1,g6t5
+"Based on the video, what is written on the screen every time the fireworks start?",1,1,1,g6t5
+What is written on the screen every time the camera zooms in?,1,1,1,g6t5
+What is written on the screen every time the car crashes?,1,1,1,g6t5
+What is written on the screen every time the game starts?,1,1,1,g6t5
+What is written on the screen every time the train arrives?,1,1,1,g6t5

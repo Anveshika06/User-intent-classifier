@@ -1,0 +1,6 @@
+setup:
+  - python -m pip install -r requirements.txt
+run:
+  - python -m unittest discover -s src
+  - python src/main.py
+  - python src/evaluate.py
