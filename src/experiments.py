@@ -17,8 +17,12 @@ import numpy as np
 import pandas as pd
 from scipy.sparse import csr_matrix, hstack
 from scipy.stats import binomtest
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.calibration import CalibratedClassifierCV
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import LinearSVC
 from sklearn.metrics import f1_score
 from sklearn.model_selection import train_test_split
 from sklearn.multiclass import OneVsRestClassifier
@@ -75,12 +79,19 @@ def flags(texts, patterns, scale):
 
 
 class Variant:
-    def __init__(self, word=True, char=False, cues=None, cue_scale=0.5, powerset=False, original=False):
+    def __init__(self, word=True, char=False, cues=None, cue_scale=0.5, powerset=False, original=False, kind="lr",
+                 fixed=None):
         self.word, self.char, self.cues, self.cue_scale = word, char, cues, cue_scale
-        self.powerset, self.original = powerset, original
+        self.powerset, self.original, self.kind, self.fixed = powerset, original, kind, fixed
 
     def fit(self, questions, y):
         texts = [R.normalize(q) for q in questions]
+        if self.kind == "fixed":  # no learning: the same route set for every question
+            return self
+        if self.kind == "nb":  # multinomial Naive Bayes on word 1-2-gram counts
+            self.vec, self.cvec = CountVectorizer(ngram_range=(1, 2)).fit(texts), None
+            self.model = OneVsRestClassifier(MultinomialNB(alpha=0.5)).fit(self._x(texts), y)
+            return self
         if self.original:  # the first version exactly: capped word TF-IDF + raw flags, balanced classes
             self.vec = TfidfVectorizer(ngram_range=(1, 2), max_features=4000).fit(texts)
             self.model = OneVsRestClassifier(LogisticRegression(max_iter=500, class_weight="balanced")).fit(self._x(texts), y)
@@ -88,6 +99,14 @@ class Variant:
         self.vec = TfidfVectorizer(ngram_range=(1, 2), sublinear_tf=True, dtype=np.float32).fit(texts) if self.word else None
         self.cvec = TfidfVectorizer(analyzer="char_wb", ngram_range=(2, 5), min_df=2, sublinear_tf=True,
                                     dtype=np.float32).fit(texts) if self.char else None
+        if self.kind == "svm":  # linear SVM, Platt-calibrated so thresholds and the cost rule get probabilities
+            self.model = OneVsRestClassifier(CalibratedClassifierCV(estimator=LinearSVC(C=0.5), cv=3, method="sigmoid"))
+            self.model.fit(self._x(texts), y)
+            return self
+        if self.kind == "knn":
+            self.model = OneVsRestClassifier(KNeighborsClassifier(n_neighbors=15, metric="cosine", weights="distance"))
+            self.model.fit(self._x(texts), y)
+            return self
         if self.powerset:
             self.combos = sorted({tuple(r) for r in np.asarray(y)})
             self.model = LogisticRegression(C=8.0, max_iter=5000).fit(self._x(texts), [self.combos.index(tuple(r)) for r in np.asarray(y)])
@@ -102,6 +121,8 @@ class Variant:
         return hstack(parts + ([flags(texts, self.cues, self.cue_scale)] if self.cues else []), format="csr")
 
     def scores(self, questions):
+        if self.kind == "fixed":
+            return np.tile(np.asarray(self.fixed, dtype=float), (len(questions), 1))
         x = self._x([R.normalize(q) for q in questions])
         if not self.powerset:
             return self.model.predict_proba(x)
@@ -110,7 +131,17 @@ class Variant:
         return p @ np.array(self.combos)
 
 
+MAJORITY = tuple(int(v) for v in pd.Series([tuple(r) for r in Y]).mode()[0])  # most common label set in training
+BASELINES = ["No router: all three indexes", "No router: whole video only", "No router: clips only",
+             "Majority label set", "Naive Bayes (word n-grams)", "k-NN (word TF-IDF)", "Linear SVM (word + char TF-IDF)"]
 VARIANTS = {
+    "No router: all three indexes": (dict(kind="fixed", fixed=(1, 1, 1)), "fixed"),
+    "No router: whole video only": (dict(kind="fixed", fixed=(0, 0, 1)), "fixed"),
+    "No router: clips only": (dict(kind="fixed", fixed=(0, 1, 0)), "fixed"),
+    "Majority label set": (dict(kind="fixed", fixed=MAJORITY), "fixed"),
+    "Naive Bayes (word n-grams)": (dict(kind="nb"), "tuned"),
+    "k-NN (word TF-IDF)": (dict(kind="knn"), "tuned"),
+    "Linear SVM (word + char TF-IDF)": (dict(char=True, kind="svm"), "tuned"),
     ORIGINAL: (dict(original=True), "fixed"),
     "Original features, new data": (dict(original=True), "fixed"),
     "B0: keyword flags only": (dict(word=False, cues=ORIGINAL_CUES, cue_scale=1.0), "tuned"),
@@ -165,7 +196,9 @@ def main():
         hw, sd = v.scores(HELD.question), v.scores(SEEDS.question)
         d = {"thresholds": th, "hw_scores": hw, "oof": oof, "hw": M.predict_labels(hw, th), "sd": M.predict_labels(sd, th)}
         d["p50_ms"], d["p95_ms"], d["model_kb"] = speed_and_size(v, th)
-        if oof is not None:  # same decision rule for every design: minimum expected routing cost
+        if kwargs.get("kind") == "fixed":  # a fixed router has nothing to calibrate: its routes never change
+            d["hw_min_cost"], d["sd_min_cost"], d["fixed"] = d["hw"], d["sd"], True
+        elif oof is not None:  # same decision rule for every learned design: minimum expected routing cost
             cal = R.fit_calibrators(oof, Y)
             d["calibrate"] = lambda p, cal=cal: R.calibrate(cal, p)
             d["hw_min_cost"] = R.min_cost_routes(R.calibrate(cal, hw))
@@ -183,7 +216,8 @@ def main():
         row = {"cv_macro_f1": M.routing_metrics(Y, M.predict_labels(d["oof"], d["thresholds"]))["macro_f1"] if d["oof"] is not None else None,
                "handwritten": M.routing_metrics(YH, d["hw"]),
                "seeds_macro_f1": round(float(np.mean(seed_cv)), 3) if name == ORIGINAL else M.routing_metrics(YS, d["sd"])["macro_f1"],
-               "p50_ms": d["p50_ms"], "p95_ms": d["p95_ms"], "model_kb": d["model_kb"]}
+               "p50_ms": d["p50_ms"], "p95_ms": d["p95_ms"], "model_kb": d["model_kb"], "fixed": d.get("fixed", False),
+               "standard_baseline": name in BASELINES}
         if "hw_min_cost" in d:
             row["min_cost_regret_pct"] = {"handwritten": R.expected_routing_cost(YH, d["hw_min_cost"])["regret_pct"],
                                           "seeds": R.expected_routing_cost(YS, d["sd_min_cost"])["regret_pct"]}
@@ -202,6 +236,13 @@ def main():
                 "seed_cv_original": [round(float(np.mean(seed_cv)), 3), round(float(np.percentile(seed_cv, 5)), 3),
                                      round(float(np.percentile(seed_cv, 95)), 3)]}
     gaps = {n: ci(f1_ch - macro_f1_boot(YH, d["hw"], idx)) for n, d in designs.items() if n != CHOSEN}
+    best = max(BASELINES, key=lambda n: table[n]["handwritten"]["macro_f1"])  # strongest standard baseline
+    bp = designs[best]["hw"]; ok_b = np.all(bp == YH, axis=1)
+    b2, c2 = int(np.sum(ok_ch & ~ok_b)), int(np.sum(ok_b & ~ok_ch))
+    headline["vs_strongest_standard_baseline"] = {
+        "baseline": best, "macro_f1_gain_ci": ci(f1_ch - macro_f1_boot(YH, bp, idx)),
+        "exact_match_gain_ci": ci(ok_ch[idx].mean(1) - ok_b[idx].mean(1)),
+        "mcnemar": {"fixed": b2, "broken": c2, "p_value": float(binomtest(b2, b2 + c2, 0.5).pvalue) if b2 + c2 else 1.0}}
 
     d = designs[CHOSEN]
     scale95 = next(s for s in np.arange(1.0, 0.09, -0.05)
@@ -265,7 +306,7 @@ def figure(designs, table, sensitivity, oracle):
         return
     plt.rcParams.update({"font.family": "DejaVu Sans"})
     fig, (a, b) = plt.subplots(1, 2, figsize=(15.5, 6.2))
-    pts = {n: (r["p95_ms"], r["handwritten"]["macro_f1"], r["model_kb"]) for n, r in table.items()}
+    pts = {n: (r["p95_ms"], r["handwritten"]["macro_f1"], r["model_kb"]) for n, r in table.items() if not r["fixed"]}
     frontier = sorted([n for n, (x, y, _) in pts.items() if not any(x2 <= x and y2 >= y and (x2, y2) != (x, y)
                                                                      for x2, y2, _ in pts.values())], key=lambda n: pts[n][0])
     a.step([pts[n][0] for n in frontier], [pts[n][1] for n in frontier], where="post", color="#38A169", lw=1.4,
@@ -275,6 +316,8 @@ def figure(designs, table, sensitivity, oracle):
         a.scatter(x, y, s=30 + 1.6 * kb, color=color, alpha=0.95 if n == CHOSEN else 0.6, edgecolor="#2D3748",
                   zorder=5 if n == CHOSEN else 3)
         offset = {CHOSEN: (-34, 20), "Label powerset, word + char": (16, 10), "B2: word TF-IDF": (-44, 16),
+                  "Linear SVM (word + char TF-IDF)": (-70, -26), "Naive Bayes (word n-grams)": (-128, -4),
+                  "k-NN (word TF-IDF)": (-40, -24),
                   "Word TF-IDF + lexicon": (-112, -18), "Word + char + lexicon": (18, -16),
                   "Original features, new data": (14, -16), ORIGINAL: (14, 6)}.get(n, (10, 4))
         a.annotate(n.replace(" (130 seeds)", "").replace(" TF-IDF (chosen)", " (chosen)"), (x, y), xytext=offset,
@@ -285,8 +328,8 @@ def figure(designs, table, sensitivity, oracle):
                          (0.68, f"break-even for a perfect router: {be} ms \u2192", "#2B6CB0"),
                          (0.645, "typical LLM API call: 300\u20132,000 ms \u2192", "#9B2C2C")):
         a.text(0.98, yy, txt, transform=a.get_yaxis_transform(), ha="right", fontsize=8.5, color=col)
-    a.set_xscale("log"); a.set_xlim(0.25, 4.0); a.set_ylim(0.6, 1.0)
-    a.set_xticks([0.3, 0.5, 1, 2, 3]); a.set_xticklabels(["0.3", "0.5", "1", "2", "3"])
+    a.set_xscale("log"); a.set_xlim(0.25, 8.0); a.set_ylim(0.6, 1.0)
+    a.set_xticks([0.3, 0.5, 1, 2, 4, 8]); a.set_xticklabels(["0.3", "0.5", "1", "2", "4", "8"])
     a.xaxis.set_minor_formatter(matplotlib.ticker.NullFormatter())
     a.set_xlabel("p95 single-question latency (ms, log scale)"); a.set_ylabel("macro-F1, hand-written set")
     a.set_title("Accuracy vs latency (bubble area = model size)", fontsize=11, fontweight="bold")
