@@ -21,11 +21,11 @@ Before building this System, I reviewed work on adaptive retrieval for long vide
 
 Methods I decided to  incorporate:
 
-- fast n-gram classifiers [7];
-- generated data, balanced so no single word predicts a label [8, 9];
-- tuned thresholds, validated on held-out templates [10, 11];
-- cost-sensitive decisions with calibrated probabilities [12–14];
-- standard baselines [15–17] and statistical tests [18–20].
+1. fast n-gram classifiers [7]
+2. generated data, balanced so no single word predicts a label [8, 9]
+3. tuned thresholds, validated on held-out templates [10, 11]
+4. cost-sensitive decisions with calibrated probabilities [12–14]
+5. standard baselines [15–17] and statistical tests [18–20].
 
 ## My Architecture
 
