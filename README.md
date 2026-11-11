@@ -4,8 +4,6 @@ A **CPU-only, multi-label query classifier** that determines whether a video que
 
 The goal is to make Video-RAG retrieval more efficient by selecting relevant evidence indexes without an LLM call at inference time.
 
-> **Scope:** This project implements the query-intent router, not a complete video question-answering system.
-
 ## How It Works
 
 | Intent | Evidence scope | Retrieval route |
