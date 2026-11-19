@@ -30,7 +30,7 @@ Question → TF-IDF features → Three classifier scores → Threshold decisions
 
 The router uses a fallback for uncertain questions and supports an optional cost-aware routing policy.
 
-For the full component diagram and design decisions, see [docs/workflow.md](docs/workflow.md).
+For the full component diagram and design decisions, see [docs/workflow.md](docs/Workflow.md).
 
 ## Why This Architecture?
 
